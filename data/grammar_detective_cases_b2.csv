@@ -1,0 +1,181 @@
+case,error_sentence,correct_sentence,option_1,option_2,option_3,option_4,correct_option,topics
+1,If only I didn't forgot his birthday.,If only I hadn't forgotten his birthday.,his,forgot,only,I,2,wish/if only (regrets)
+1,They denied to break the window.,They denied breaking the window.,denied,They,window,to,4,gerunds/infinitives (advanced)
+1,Is John who called you last night.,It is John who called you last night.,Is,who,John,night,1,cleft sentences
+1,She did go to the concert last night.,She did go to the concert last night.,to,the,go,did,3,emphasis with do/does/did
+1,"London, that is the capital of England, is a big city.","London, which is the capital of England, is a big city.",big,capital,is,that,4,relative clauses (non-defining)
+1,"He went to the library, and Mary went to the library too.","He went to the library, and Mary did too.",He,the,to,library,4,ellipsis/substitution
+1,They will arrive before the meeting starts.,They will have arrived before the meeting starts.,before,meeting,starts,arrive,4,future perfect
+1,They asked if I am coming to the meeting.,They asked if I was coming to the meeting.,They,to,meeting,am,4,reported speech (advanced)
+1,"You think she will come, don't you?","You think she will come, won't she?",you,come,don't,You,3,question tags (advanced nuance)
+1,The manager decide to close the shop.,The manager's decision was to close the shop.,decide,close,to,manager,1,nominalization
+1,She finished her homework she went out to play.,She finished her homework before she went out to play.,out,she,finished,to,2,compound/complex sentences
+1,"Bored with the movie, he was leave early.","Bored with the movie, he left early.",with,was,early,leave,4,participle clauses
+2,"If we would have left earlier, we wouldn't have missed the train.","If we had left earlier, we wouldn't have missed the train.",would,If,the,wouldn't,1,third conditional
+2,"By this time next year, I will finish my degree.","By this time next year, I will have finished my degree.",finish,will,next,degree,1,future perfect
+2,"I went to the party, and so did my friends go.","I went to the party, and so did my friends.",my,go,went,so,2,ellipsis/substitution
+2,"I like pizza, although I don't eat it often.","I like pizza, but I don't eat it often.",don't,eat,although,I,3,discourse markers
+2,The house build last year is very modern.,The house built last year is very modern.,last,build,modern,The,2,passive voice (all tenses)
+2,"I want to go, but I did not like the idea.","I do want to go, but I did not like the idea.",want,did,idea,go,1,emphasis with do/does/did
+2,They might went to the party on Saturday.,They might have gone to the party on Saturday.,went,Saturday,the,to,1,modal verbs in the past
+2,If only I didn't forgot his birthday.,If only I hadn't forgotten his birthday.,didn't,only,If,forgot,4,wish/if only (regrets)
+2,"If I were taller, I would have played basketball.","If I had been taller, I would have played basketball.",I,taller,were,would,3,mixed conditionals
+2,"By noon, I will work for six hours already.","By noon, I will have been working for six hours already.",six,for,work,noon,3,future perfect continuous
+2,"If I was you, I would apologize.","If I were you, I would apologize.",I,was,would,you,2,subjunctive mood
+2,Is my brother that helped me with my homework.,It is my brother who helped me with my homework.,me,brother,Is,homework,3,cleft sentences
+3,The manager decide to close the shop.,The manager's decision was to close the shop.,close,The,decide,the,3,nominalization
+3,She got her car repair last week.,She got her car repaired last week.,last,week,repair,She,3,have something done
+3,"He shouldn't be late, should he not?","He shouldn't be late, should he?",late,not,shouldn't,be,2,question tags (advanced nuance)
+3,"If she would have seen him, she would have told him.","If she had seen him, she would have told him.",she,seen,would,him,3,third conditional
+3,"I went to the party, and so did my friends go.","I went to the party, and so did my friends.",go,my,the,and,1,ellipsis/substitution
+3,"My father, which is a doctor, works at the hospital.","My father, who is a doctor, works at the hospital.",which,My,is,hospital,1,relative clauses (non-defining)
+3,It's important that he goes to the meeting.,It's important that he go to the meeting.,that,It's,goes,important,3,subjunctive mood
+3,They will arrive before the meeting starts.,They will have arrived before the meeting starts.,the,They,starts,arrive,4,future perfect
+3,He didn't go to work he was feeling sick.,He didn't go to work because he was feeling sick.,to,he,He,was,2,compound/complex sentences
+3,I wish I didn't bought that expensive phone.,I wish I hadn't bought that expensive phone.,wish,bought,didn't,I,2,wish/if only (regrets)
+3,"If they hadn't missed the bus, they are here now.","If they hadn't missed the bus, they would be here now.",now,are,the,they,2,mixed conditionals
+3,The house build last year is very modern.,The house built last year is very modern.,is,year,modern,build,4,passive voice (all tenses)
+4,If only I didn't forgot his birthday.,If only I hadn't forgotten his birthday.,If,didn't,forgot,I,3,wish/if only (regrets)
+4,"If we would have left earlier, we wouldn't have missed the train.","If we had left earlier, we wouldn't have missed the train.",would,earlier,train,the,1,third conditional
+4,He didn't go to work he was feeling sick.,He didn't go to work because he was feeling sick.,He,feeling,go,he,4,compound/complex sentences
+4,"I went to the party, and so did my friends go.","I went to the party, and so did my friends.",and,went,go,party,3,ellipsis/substitution
+4,"If I was you, I would apologize.","If I were you, I would apologize.",you,was,I,apologize,2,subjunctive mood
+4,The car was repair by the mechanic.,The car was repaired by the mechanic.,car,was,by,repair,4,passive voice (all tenses)
+4,He will teach at the university for ten years next month.,He will have been teaching at the university for ten years next month.,teach,for,at,next,1,future perfect continuous
+4,They denied to break the window.,They denied breaking the window.,the,window,to,denied,3,gerunds/infinitives (advanced)
+4,"My brother, where lives in France, is coming tomorrow.","My brother, who lives in France, is coming tomorrow.",coming,in,France,where,4,relative clauses (non-defining)
+4,"If I were taller, I would have played basketball.","If I had been taller, I would have played basketball.",played,If,were,taller,3,mixed conditionals
+4,"Let's go to the cinema, will we?","Let's go to the cinema, shall we?",the,cinema,will,Let's,3,question tags (advanced nuance)
+4,He used to playing football every weekend.,He used to play football every weekend.,used,every,football,playing,4,used to/be used to/get used to
+5,The house build last year is very modern.,The house built last year is very modern.,year,build,very,is,2,passive voice (all tenses)
+5,"If she would have seen him, she would have told him.","If she had seen him, she would have told him.",have,seen,If,would,4,third conditional
+5,"By this time next year, I will finish my degree.","By this time next year, I will have finished my degree.",year,this,By,finish,4,future perfect
+5,She got her car repair last week.,She got her car repaired last week.,last,repair,got,car,2,have something done
+5,"Walking down the street, the rain started to fall.","While I was walking down the street, the rain started to fall.",started,Walking,down,fall,2,participle clauses
+5,She had been work at the company for two years before she left.,She had been working at the company for two years before she left.,left,work,had,two,2,past perfect continuous
+5,She said she is leaving tomorrow.,She said she was leaving the next day.,She,is,tomorrow,leaving,2,reported speech (advanced)
+5,"My father, which is a doctor, works at the hospital.","My father, who is a doctor, works at the hospital.",which,a,works,father,1,relative clauses (non-defining)
+5,If only I didn't forgot his birthday.,If only I hadn't forgotten his birthday.,only,birthday,didn't,forgot,4,wish/if only (regrets)
+5,She suggested that he studies more.,She suggested that he study more.,more,suggested,She,studies,4,subjunctive mood
+5,I am used to wake up early.,I am used to waking up early.,up,used,wake,I,3,used to/be used to/get used to
+5,"If I were taller, I would have played basketball.","If I had been taller, I would have played basketball.",If,basketball,were,taller,3,mixed conditionals
+6,You should study harder for the exam last year.,You should have studied harder for the exam last year.,study,harder,You,should,1,modal verbs in the past
+6,She will pass all her exams by June.,She will have passed all her exams by June.,her,She,pass,June,3,future perfect
+6,I am used to wake up early.,I am used to waking up early.,used,to,up,wake,4,used to/be used to/get used to
+6,Is John who called you last night.,It is John who called you last night.,who,called,Is,John,3,cleft sentences
+6,He do eat vegetables every day.,He does eat vegetables every day.,He,eat,do,vegetables,3,emphasis with do/does/did
+6,She arrive early surprised everyone.,Her arrival early surprised everyone.,early,arrive,everyone,She,2,nominalization
+6,"Walking down the street, the rain started to fall.","While I was walking down the street, the rain started to fall.",started,fall,Walking,rain,3,participle clauses
+6,"My father, which is a doctor, works at the hospital.","My father, who is a doctor, works at the hospital.",My,the,a,which,4,relative clauses (non-defining)
+6,"If we would have left earlier, we wouldn't have missed the train.","If we had left earlier, we wouldn't have missed the train.",earlier,would,missed,have,2,third conditional
+6,The report will written by Tom tomorrow.,The report will be written by Tom tomorrow.,report,written,Tom,by,2,passive voice (all tenses)
+6,He said he will call me when he arrives.,He said he would call me when he arrived.,He,when,me,will,4,reported speech (advanced)
+6,"Let's go to the cinema, will we?","Let's go to the cinema, shall we?",we,will,to,the,2,question tags (advanced nuance)
+7,The house build last year is very modern.,The house built last year is very modern.,last,build,is,year,2,passive voice (all tenses)
+7,He used to playing football every weekend.,He used to play football every weekend.,football,to,weekend,playing,4,used to/be used to/get used to
+7,If only I didn't forgot his birthday.,If only I hadn't forgotten his birthday.,his,If,didn't,forgot,4,wish/if only (regrets)
+7,I had my hair cutted yesterday.,I had my hair cut yesterday.,had,I,cutted,yesterday,3,have something done
+7,She suggested that he studies more.,She suggested that he study more.,studies,more,She,that,1,subjunctive mood
+7,He said he will call me when he arrives.,He said he would call me when he arrived.,arrives,He,me,will,4,reported speech (advanced)
+7,"If we would have left earlier, we wouldn't have missed the train.","If we had left earlier, we wouldn't have missed the train.",If,we,missed,would,4,third conditional
+7,"He likes tennis, and she likes tennis too.","He likes tennis, and so does she.",and,she,tennis,likes,3,ellipsis/substitution
+7,Rarely people understand the importance of this issue.,Rarely do people understand the importance of this issue.,importance,of,people,the,3,inversion
+7,"If they hadn't missed the bus, they are here now.","If they hadn't missed the bus, they would be here now.",bus,If,are,hadn't,3,mixed conditionals
+7,She did go to the concert last night.,She did go to the concert last night.,night,did,go,to,3,emphasis with do/does/did
+7,We will go to the park the weather is nice.,We will go to the park if the weather is nice.,the,will,weather,is,1,compound/complex sentences
+8,"If they hadn't missed the bus, they are here now.","If they hadn't missed the bus, they would be here now.",If,now,bus,are,4,mixed conditionals
+8,"I like pizza, although I don't eat it often.","I like pizza, but I don't eat it often.",it,although,like,don't,2,discourse markers
+8,They will study for three hours by the time you come.,They will have been studying for three hours by the time you come.,will,hours,study,by,3,future perfect continuous
+8,It's important that he goes to the meeting.,It's important that he go to the meeting.,It's,he,meeting,goes,4,subjunctive mood
+8,She arrive early surprised everyone.,Her arrival early surprised everyone.,arrive,surprised,early,She,1,nominalization
+8,Rarely people understand the importance of this issue.,Rarely do people understand the importance of this issue.,Rarely,people,the,importance,2,inversion
+8,He do eat vegetables every day.,He does eat vegetables every day.,He,every,eat,do,4,emphasis with do/does/did
+8,"He likes tennis, and she likes tennis too.","He likes tennis, and so does she.",tennis,and,she,He,1,ellipsis/substitution
+8,I am used to wake up early.,I am used to waking up early.,wake,I,up,am,1,used to/be used to/get used to
+8,"He shouldn't be late, should he not?","He shouldn't be late, should he?",not,late,shouldn't,he,1,question tags (advanced nuance)
+8,The report will written by Tom tomorrow.,The report will be written by Tom tomorrow.,by,report,tomorrow,written,4,passive voice (all tenses)
+8,"If she would have seen him, she would have told him.","If she had seen him, she would have told him.",she,If,him,would,4,third conditional
+9,"I want to go, but I did not like the idea.","I do want to go, but I did not like the idea.",idea,want,go,not,2,emphasis with do/does/did
+9,You should study harder for the exam last year.,You should have studied harder for the exam last year.,should,year,last,study,4,modal verbs in the past
+9,Was yesterday that I met her for the first time.,It was yesterday that I met her for the first time.,the,for,Was,met,3,cleft sentences
+9,She suggested that he studies more.,She suggested that he study more.,suggested,more,studies,that,3,subjunctive mood
+9,"My brother, where lives in France, is coming tomorrow.","My brother, who lives in France, is coming tomorrow.",lives,is,where,coming,3,relative clauses (non-defining)
+9,They had play football for an hour when it started to rain.,They had been playing football for an hour when it started to rain.,for,They,when,play,4,past perfect continuous
+9,"Bored with the movie, he was leave early.","Bored with the movie, he left early.",early,leave,was,movie,2,participle clauses
+9,"He was late. Nevertheless, he not apologized.","He was late. Nevertheless, he did not apologize.",he,Nevertheless,not,was,3,discourse markers
+9,"If we would have left earlier, we wouldn't have missed the train.","If we had left earlier, we wouldn't have missed the train.",wouldn't,If,would,the,3,third conditional
+9,"He went to the library, and Mary went to the library too.","He went to the library, and Mary did too.",library,Mary,to,the,1,ellipsis/substitution
+9,We will go to the park the weather is nice.,We will go to the park if the weather is nice.,We,to,the,nice,3,compound/complex sentences
+9,I had my hair cutted yesterday.,I had my hair cut yesterday.,had,cutted,my,yesterday,2,have something done
+10,"Moreover, she is smart, but she doesn't study hard.","Moreover, she is smart, yet she doesn't study hard.",she,hard,but,Moreover,3,discourse markers
+10,"My father, which is a doctor, works at the hospital.","My father, who is a doctor, works at the hospital.",father,which,hospital,is,2,relative clauses (non-defining)
+10,"If she would have seen him, she would have told him.","If she had seen him, she would have told him.",have,would,told,seen,2,third conditional
+10,She did go to the concert last night.,She did go to the concert last night.,did,She,last,go,4,emphasis with do/does/did
+10,Rarely people understand the importance of this issue.,Rarely do people understand the importance of this issue.,importance,this,people,of,3,inversion
+10,He didn't go to work he was feeling sick.,He didn't go to work because he was feeling sick.,didn't,he,go,to,2,compound/complex sentences
+10,"If I was you, I would apologize.","If I were you, I would apologize.",you,I,was,apologize,3,subjunctive mood
+10,"He likes tennis, and she likes tennis too.","He likes tennis, and so does she.",tennis,too,likes,He,1,ellipsis/substitution
+10,She suggested to go to the new restaurant.,She suggested going to the new restaurant.,She,the,new,to,4,gerunds/infinitives (advanced)
+10,"You think she will come, don't you?","You think she will come, won't she?",will,you,think,don't,4,question tags (advanced nuance)
+10,Is John who called you last night.,It is John who called you last night.,Is,who,last,called,1,cleft sentences
+10,She said she is leaving tomorrow.,She said she was leaving the next day.,tomorrow,leaving,said,is,4,reported speech (advanced)
+11,She suggested to go to the new restaurant.,She suggested going to the new restaurant.,the,to,go,She,2,gerunds/infinitives (advanced)
+11,"Having finish her work, she went home.","Having finished her work, she went home.",went,home,work,finish,4,participle clauses
+11,She must forgot her keys at home yesterday.,She must have forgotten her keys at home yesterday.,at,yesterday,home,forgot,4,modal verbs in the past
+11,We had the house paint last year.,We had the house painted last year.,We,paint,last,had,2,have something done
+11,Never I have seen such a beautiful sunset.,Never have I seen such a beautiful sunset.,a,I,beautiful,such,2,inversion
+11,"By this time next year, I will finish my degree.","By this time next year, I will have finished my degree.",next,year,finish,my,3,future perfect
+11,She said she is leaving tomorrow.,She said she was leaving the next day.,She,tomorrow,is,leaving,3,reported speech (advanced)
+11,The manager decide to close the shop.,The manager's decision was to close the shop.,manager,shop,The,decide,4,nominalization
+11,"If I would have known, I would have helped you.","If I had known, I would have helped you.",I,If,you,would,4,third conditional
+11,I am used to wake up early.,I am used to waking up early.,early,wake,up,am,2,used to/be used to/get used to
+11,"If they hadn't missed the bus, they are here now.","If they hadn't missed the bus, they would be here now.",are,now,missed,hadn't,1,mixed conditionals
+11,"I went to the party, and so did my friends go.","I went to the party, and so did my friends.",go,did,party,so,1,ellipsis/substitution
+12,She suggested to go to the new restaurant.,She suggested going to the new restaurant.,to,new,suggested,restaurant,1,gerunds/infinitives (advanced)
+12,She had been work at the company for two years before she left.,She had been working at the company for two years before she left.,work,left,before,for,1,past perfect continuous
+12,"He likes tennis, and she likes tennis too.","He likes tennis, and so does she.",she,tennis,likes,He,2,ellipsis/substitution
+12,"By this time next year, I will finish my degree.","By this time next year, I will have finished my degree.",my,finish,will,By,2,future perfect
+12,He didn't go to work he was feeling sick.,He didn't go to work because he was feeling sick.,he,was,feeling,didn't,1,compound/complex sentences
+12,We discuss about the problem at length.,Our discussion about the problem was at length.,length,at,discuss,the,3,nominalization
+12,Hardly he had finished his work when the phone rang.,Hardly had he finished his work when the phone rang.,he,Hardly,phone,rang,1,inversion
+12,Is my brother that helped me with my homework.,It is my brother who helped me with my homework.,brother,that,Is,me,3,cleft sentences
+12,"I like pizza, although I don't eat it often.","I like pizza, but I don't eat it often.",although,it,like,I,1,discourse markers
+12,She said she is leaving tomorrow.,She said she was leaving the next day.,She,she,said,is,4,reported speech (advanced)
+12,"I want to go, but I did not like the idea.","I do want to go, but I did not like the idea.",want,but,go,did,1,emphasis with do/does/did
+12,I am used to wake up early.,I am used to waking up early.,am,wake,I,up,2,used to/be used to/get used to
+13,The report will written by Tom tomorrow.,The report will be written by Tom tomorrow.,will,report,The,written,4,passive voice (all tenses)
+13,We discuss about the problem at length.,Our discussion about the problem was at length.,discuss,We,problem,at,1,nominalization
+13,"You think she will come, don't you?","You think she will come, won't she?",she,You,will,don't,4,question tags (advanced nuance)
+13,She got her car repair last week.,She got her car repaired last week.,her,car,week,repair,4,have something done
+13,Never I have seen such a beautiful sunset.,Never have I seen such a beautiful sunset.,sunset,I,a,such,2,inversion
+13,"By this time next year, I will finish my degree.","By this time next year, I will have finished my degree.",finish,degree,By,will,1,future perfect
+13,She can't get used to live in a big city.,She can't get used to living in a big city.,used,city,get,live,4,used to/be used to/get used to
+13,"If I was you, I would apologize.","If I were you, I would apologize.",apologize,was,would,If,2,subjunctive mood
+13,"If they hadn't missed the bus, they are here now.","If they hadn't missed the bus, they would be here now.",are,they,the,missed,1,mixed conditionals
+13,I wish I didn't lost my keys.,I wish I hadn't lost my keys.,lost,didn't,keys,wish,1,wish/if only (regrets)
+13,"Having finish her work, she went home.","Having finished her work, she went home.",home,went,she,finish,4,participle clauses
+13,"He likes tennis, and she likes tennis too.","He likes tennis, and so does she.",she,He,tennis,and,3,ellipsis/substitution
+14,She suggested to go to the new restaurant.,She suggested going to the new restaurant.,the,to,restaurant,go,2,gerunds/infinitives (advanced)
+14,The report will written by Tom tomorrow.,The report will be written by Tom tomorrow.,written,tomorrow,by,report,1,passive voice (all tenses)
+14,He said he will call me when he arrives.,He said he would call me when he arrived.,when,will,me,arrives,2,reported speech (advanced)
+14,You should study harder for the exam last year.,You should have studied harder for the exam last year.,study,last,should,for,1,modal verbs in the past
+14,It's important that he goes to the meeting.,It's important that he go to the meeting.,the,goes,he,It's,2,subjunctive mood
+14,"If she would have seen him, she would have told him.","If she had seen him, she would have told him.",she,would,have,told,2,third conditional
+14,She will pass all her exams by June.,She will have passed all her exams by June.,will,pass,June,her,2,future perfect
+14,She had been work at the company for two years before she left.,She had been working at the company for two years before she left.,the,work,company,years,2,past perfect continuous
+14,"I like pizza, although I don't eat it often.","I like pizza, but I don't eat it often.",eat,although,I,don't,2,discourse markers
+14,We had the house paint last year.,We had the house painted last year.,paint,last,year,had,1,have something done
+14,Is John who called you last night.,It is John who called you last night.,called,John,Is,last,3,cleft sentences
+14,He will teach at the university for ten years next month.,He will have been teaching at the university for ten years next month.,will,He,at,teach,4,future perfect continuous
+15,"Let's go to the cinema, will we?","Let's go to the cinema, shall we?",cinema,Let's,the,will,4,question tags (advanced nuance)
+15,He will teach at the university for ten years next month.,He will have been teaching at the university for ten years next month.,ten,at,teach,next,3,future perfect continuous
+15,"Having finish her work, she went home.","Having finished her work, she went home.",Having,her,went,finish,4,participle clauses
+15,"I want to go, but I did not like the idea.","I do want to go, but I did not like the idea.",like,idea,want,the,3,emphasis with do/does/did
+15,She finished her homework she went out to play.,She finished her homework before she went out to play.,She,her,homework,she,4,compound/complex sentences
+15,Hardly he had finished his work when the phone rang.,Hardly had he finished his work when the phone rang.,phone,the,he,when,3,inversion
+15,"I went to the party, and so did my friends go.","I went to the party, and so did my friends.",go,did,so,the,1,ellipsis/substitution
+15,It's important that he goes to the meeting.,It's important that he go to the meeting.,he,the,goes,meeting,3,subjunctive mood
+15,She can't get used to live in a big city.,She can't get used to living in a big city.,get,She,live,can't,3,used to/be used to/get used to
+15,"My father, which is a doctor, works at the hospital.","My father, who is a doctor, works at the hospital.",a,works,which,at,3,relative clauses (non-defining)
+15,They asked if I am coming to the meeting.,They asked if I was coming to the meeting.,if,They,am,asked,3,reported speech (advanced)
+15,Is my brother that helped me with my homework.,It is my brother who helped me with my homework.,with,Is,my,homework,2,cleft sentences

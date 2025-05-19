@@ -1,0 +1,181 @@
+case,error_sentence,correct_sentence,option_1,option_2,option_3,option_4,correct_option,topics
+1,She admitted to have broken the vase.,She admitted having broken the vase.,the,have,admitted,to,4,advanced gerunds/infinitives
+1,I love reading. Moreover I write stories.,"I love reading; moreover, I write stories.",stories,reading,write,Moreover,4,discourse markers/linking devices
+1,The manager decide to implement the changes quickly.,The manager's decision to implement the changes was quick.,manager,changes,decide,to,3,nominalization/complex noun phrases
+1,She said she will call me after dinner.,She said she would call me after dinner.,she,said,after,will,4,future in the past
+1,"The teacher whose class we like, she is on vacation.",The teacher whose class we like is on vacation.,The,she,whose,like,2,complex relative clauses
+1,"She reads books, and he reads books also.","She reads books, and so does he.",reads,books,he,also,2,ellipsis/substitution
+1,She mentioned she has finished the project.,She mentioned she had finished the project.,the,She,project,has,4,reported speech (advanced verbs)
+1,The results was significant in all groups.,The results were significant in all groups.,was,groups,in,The,1,formal/academic structures
+1,Hardly we had finished when the phone rang.,Hardly had we finished when the phone rang.,we,rang,when,finished,1,inversion/emphatic structures
+1,There has a lot of people at the event.,There were a lot of people at the event.,of,has,a,the,2,anticipatory it/there
+1,They could has forgotten about the meeting.,They could have forgotten about the meeting.,meeting,the,could,has,4,hedging/modals for speculation
+1,He left early because he had an appointment.,"Because he had an appointment, he left early.",appointment,He,an,he,2,adverbial clauses
+2,I wonder when does the show start.,I wonder when the show starts.,when,wonder,show,does,4,embedded questions/statements
+2,"The book, what I borrowed from you, was fascinating.","The book, which I borrowed from you, was fascinating.",from,I,what,The,3,complex relative clauses
+2,"Having see the movie before, I didn't go again.","Having seen the movie before, I didn't go again.",I,see,didn't,again,2,participial phrases
+2,Is the blue car that I want to buy.,It is the blue car that I want to buy.,blue,Is,car,to,2,cleft sentences/emphasis
+2,The manager decide to implement the changes quickly.,The manager's decision to implement the changes was quick.,decide,to,manager,implement,1,nominalization/complex noun phrases
+2,Rarely she has been so challenged by a project.,Rarely has she been so challenged by a project.,she,has,project,challenged,1,inversion/emphatic structures
+2,There has a lot of people at the event.,There were a lot of people at the event.,at,of,has,the,3,anticipatory it/there
+2,The results was significant in all groups.,The results were significant in all groups.,was,significant,all,groups,1,formal/academic structures
+2,"If you were told, you will act quickly.","If you were told, you would act quickly.",will,If,quickly,you,1,advanced conditionals
+2,She is not as taller as her sister.,She is not as tall as her sister.,sister,as,not,taller,4,complex comparatives
+2,"Although she was tired, but she finished the project.","Although she was tired, she finished the project.",but,Although,finished,tired,1,adverbial clauses
+2,They prefer to having dinner early.,They prefer having dinner early.,having,to,early,They,2,advanced gerunds/infinitives
+3,"As soon he arrives, we will start the meeting.","As soon as he arrives, we will start the meeting.",we,he,will,soon,4,adverbial clauses
+3,He denied to know anything about it.,He denied knowing anything about it.,it,anything,He,to,4,advanced gerunds/infinitives
+3,Rarely she has been so challenged by a project.,Rarely has she been so challenged by a project.,by,she,project,Rarely,2,inversion/emphatic structures
+3,"I like jazz music, and Tom like jazz music too.","I like jazz music, and so does Tom.",and,jazz,like,Tom,3,ellipsis/substitution
+3,There is many factors to consider.,There are many factors to consider.,to,is,factors,many,2,formal/academic structures
+3,"He can have finished already, but it's not certain.","He may have finished already, but it's not certain.",already,can,certain,have,2,hedging/modals for speculation
+3,"His friend, who car was stolen, called the police.","His friend, whose car was stolen, called the police.",His,was,the,who,4,complex relative clauses
+3,Can you tell me where is the nearest bank?,Can you tell me where the nearest bank is?,Can,is,me,you,2,embedded questions/statements
+3,There has a lot of people at the event.,There were a lot of people at the event.,at,has,There,a,2,anticipatory it/there
+3,"Having finish the report, he left the office.","Having finished the report, he left the office.",left,the,finish,he,3,non-finite clauses
+3,She said she will call me after dinner.,She said she would call me after dinner.,dinner,will,she,said,2,future in the past
+3,He arrive early surprised everyone.,His arrival early surprised everyone.,everyone,surprised,arrive,He,3,nominalization/complex noun phrases
+4,Only after he left I understood his words.,Only after he left did I understand his words.,words,I,after,Only,2,inversion/emphatic structures
+4,The manager decide to implement the changes quickly.,The manager's decision to implement the changes was quick.,the,changes,to,decide,4,nominalization/complex noun phrases
+4,To be completed the form must before Friday.,The form must be completed before Friday.,be,must,Friday,completed,4,non-finite clauses
+4,"As soon he arrives, we will start the meeting.","As soon as he arrives, we will start the meeting.",soon,start,As,arrives,1,adverbial clauses
+4,I wonder when does the show start.,I wonder when the show starts.,wonder,does,the,start,2,embedded questions/statements
+4,"The sooner you leave, sooner you arrive.","The sooner you leave, the sooner you arrive.",you,arrive,leave,sooner,4,complex comparatives
+4,He explained he will arrive late.,He explained he would arrive late.,arrive,will,he,He,2,reported speech (advanced verbs)
+4,I knew they are going to arrive late.,I knew they were going to arrive late.,are,I,to,knew,1,future in the past
+4,"He can have finished already, but it's not certain.","He may have finished already, but it's not certain.",certain,already,can,not,3,hedging/modals for speculation
+4,Is a pity you can't come to the party.,It is a pity you can't come to the party.,can't,pity,Is,come,3,anticipatory it/there
+4,Important is this for your career.,This is important for your career.,is,career,Important,for,3,fronting/thematic structures
+4,It is required that he attends the meeting.,It is required that he attend the meeting.,the,attends,is,required,2,formal/academic structures
+5,"Although she was tired, but she finished the project.","Although she was tired, she finished the project.",tired,but,the,was,2,adverbial clauses
+5,I love reading. Moreover I write stories.,"I love reading; moreover, I write stories.",love,write,reading,Moreover,4,discourse markers/linking devices
+5,"He can have finished already, but it's not certain.","He may have finished already, but it's not certain.",already,can,finished,have,2,hedging/modals for speculation
+5,I wonder when does the show start.,I wonder when the show starts.,wonder,show,does,start,3,embedded questions/statements
+5,He denied to know anything about it.,He denied knowing anything about it.,it,know,anything,to,4,advanced gerunds/infinitives
+5,Hardly we had finished when the phone rang.,Hardly had we finished when the phone rang.,we,when,Hardly,the,1,inversion/emphatic structures
+5,"Had she knew, she would not have come.","Had she known, she would not have come.",knew,would,not,Had,1,advanced conditionals
+5,Is a pity you can't come to the party.,It is a pity you can't come to the party.,to,you,Is,can't,3,anticipatory it/there
+5,At the top of the hill was the house we visited.,The house we visited was at the top of the hill.,was,of,At,the,1,fronting/thematic structures
+5,"She reads books, and he reads books also.","She reads books, and so does he.",books,reads,and,also,1,ellipsis/substitution
+5,She is not as taller as her sister.,She is not as tall as her sister.,as,her,taller,is,3,complex comparatives
+5,"The book, what I borrowed from you, was fascinating.","The book, which I borrowed from you, was fascinating.",what,was,from,book,1,complex relative clauses
+6,"Although she was tired, but she finished the project.","Although she was tired, she finished the project.",was,Although,the,but,4,adverbial clauses
+6,Was in 2010 that they moved to London.,It was in 2010 that they moved to London.,they,to,Was,London,3,cleft sentences/emphasis
+6,"Having see the movie before, I didn't go again.","Having seen the movie before, I didn't go again.",before,again,see,I,3,participial phrases
+6,Can you tell me where is the nearest bank?,Can you tell me where the nearest bank is?,you,me,is,where,3,embedded questions/statements
+6,"She must be in her office, but I am not sure.","She might be in her office, but I am not sure.",must,office,not,am,1,hedging/modals for speculation
+6,They prefer to having dinner early.,They prefer having dinner early.,dinner,early,to,They,3,advanced gerunds/infinitives
+6,She was tired. Nevertheless she continued working.,"She was tired; nevertheless, she continued working.",Nevertheless,she,continued,She,1,discourse markers/linking devices
+6,"The more you study, more you learn.","The more you study, the more you learn.",you,more,study,The,2,complex comparatives
+6,"She will attend the meeting, and I will attend the meeting too.","She will attend the meeting, and so will I.",the,meeting,and,She,2,ellipsis/substitution
+6,"The students, being tired, was left early.","The students, being tired, left early.",was,The,early,left,1,non-finite clauses
+6,He is thought win the award next month.,He is thought to win the award next month.,win,is,next,award,1,advanced passive
+6,The results was significant in all groups.,The results were significant in all groups.,The,was,all,significant,2,formal/academic structures
+7,They could has forgotten about the meeting.,They could have forgotten about the meeting.,the,meeting,has,about,3,hedging/modals for speculation
+7,I love reading. Moreover I write stories.,"I love reading; moreover, I write stories.",I,Moreover,reading,stories,2,discourse markers/linking devices
+7,Was in 2010 that they moved to London.,It was in 2010 that they moved to London.,to,that,Was,they,3,cleft sentences/emphasis
+7,Beautiful the landscape looked from the window.,The landscape looked beautiful from the window.,from,the,Beautiful,window,3,fronting/thematic structures
+7,"The teacher whose class we like, she is on vacation.",The teacher whose class we like is on vacation.,she,we,class,like,1,complex relative clauses
+7,"If he would have known, he could have acted differently.","If he had known, he could have acted differently.",have,If,he,would,4,advanced conditionals
+7,There has a lot of people at the event.,There were a lot of people at the event.,has,people,of,lot,1,anticipatory it/there
+7,It is required that he attends the meeting.,It is required that he attend the meeting.,attends,is,meeting,the,1,formal/academic structures
+7,Only after he left I understood his words.,Only after he left did I understand his words.,left,after,understood,I,4,inversion/emphatic structures
+7,He thought he will pass the exam.,He thought he would pass the exam.,will,He,pass,exam,1,future in the past
+7,"I like jazz music, and Tom like jazz music too.","I like jazz music, and so does Tom.",I,too,Tom,like,4,ellipsis/substitution
+7,"The students, being tired, was left early.","The students, being tired, left early.",was,students,left,tired,1,non-finite clauses
+8,"She reads books, and he reads books also.","She reads books, and so does he.",he,books,and,also,2,ellipsis/substitution
+8,She said she will call me after dinner.,She said she would call me after dinner.,will,after,she,said,1,future in the past
+8,"Having finish the report, he left the office.","Having finished the report, he left the office.",finish,Having,left,he,1,non-finite clauses
+8,"The sooner you leave, sooner you arrive.","The sooner you leave, the sooner you arrive.",arrive,you,sooner,The,3,complex comparatives
+8,He denied to know anything about it.,He denied knowing anything about it.,it,to,know,anything,2,advanced gerunds/infinitives
+8,She was tired. Nevertheless she continued working.,"She was tired; nevertheless, she continued working.",tired,Nevertheless,She,continued,2,discourse markers/linking devices
+8,"His friend, who car was stolen, called the police.","His friend, whose car was stolen, called the police.",police,who,was,called,2,complex relative clauses
+8,"If you were told, you will act quickly.","If you were told, you would act quickly.",will,act,you,quickly,1,advanced conditionals
+8,Can you tell me where is the nearest bank?,Can you tell me where the nearest bank is?,bank,is,the,you,2,embedded questions/statements
+8,He arrive early surprised everyone.,His arrival early surprised everyone.,surprised,early,He,arrive,4,nominalization/complex noun phrases
+8,Hardly we had finished when the phone rang.,Hardly had we finished when the phone rang.,we,phone,had,rang,1,inversion/emphatic structures
+8,"She must be in her office, but I am not sure.","She might be in her office, but I am not sure.",She,sure,I,must,4,hedging/modals for speculation
+9,Is a pity you can't come to the party.,It is a pity you can't come to the party.,to,pity,Is,a,3,anticipatory it/there
+9,"His friend, who car was stolen, called the police.","His friend, whose car was stolen, called the police.",the,was,who,friend,3,complex relative clauses
+9,"Having finish the report, he left the office.","Having finished the report, he left the office.",the,he,left,finish,4,non-finite clauses
+9,"The more you study, more you learn.","The more you study, the more you learn.",The,more,study,learn,2,complex comparatives
+9,Important is this for your career.,This is important for your career.,this,is,for,Important,4,fronting/thematic structures
+9,Hardly we had finished when the phone rang.,Hardly had we finished when the phone rang.,rang,phone,the,we,4,inversion/emphatic structures
+9,"She must be in her office, but I am not sure.","She might be in her office, but I am not sure.",must,office,She,but,1,hedging/modals for speculation
+9,He is thought win the award next month.,He is thought to win the award next month.,win,award,He,month,1,advanced passive
+9,He denied to know anything about it.,He denied knowing anything about it.,to,it,denied,anything,1,advanced gerunds/infinitives
+9,The manager decide to implement the changes quickly.,The manager's decision to implement the changes was quick.,decide,the,manager,The,1,nominalization/complex noun phrases
+9,"Walking down the street, the rain start to fall.","Walking down the street, the rain started to fall.",start,fall,down,street,1,participial phrases
+9,I wonder when does the show start.,I wonder when the show starts.,the,I,when,does,4,embedded questions/statements
+10,"She reads books, and he reads books also.","She reads books, and so does he.",he,also,reads,books,4,ellipsis/substitution
+10,At the top of the hill was the house we visited.,The house we visited was at the top of the hill.,visited,At,we,was,4,fronting/thematic structures
+10,She admitted to have broken the vase.,She admitted having broken the vase.,broken,to,have,She,2,advanced gerunds/infinitives
+10,She mentioned she has finished the project.,She mentioned she had finished the project.,has,finished,She,project,1,reported speech (advanced verbs)
+10,He arrive early surprised everyone.,His arrival early surprised everyone.,arrive,early,everyone,surprised,1,nominalization/complex noun phrases
+10,"He can have finished already, but it's not certain.","He may have finished already, but it's not certain.",already,certain,it's,can,4,hedging/modals for speculation
+10,Only after he left I understood his words.,Only after he left did I understand his words.,understood,I,Only,after,2,inversion/emphatic structures
+10,There has a lot of people at the event.,There were a lot of people at the event.,of,event,people,has,4,anticipatory it/there
+10,It is required that he attends the meeting.,It is required that he attend the meeting.,that,is,attends,required,3,formal/academic structures
+10,He thought he will pass the exam.,He thought he would pass the exam.,exam,the,thought,will,4,future in the past
+10,Is Anna that called you yesterday.,It was Anna who called you yesterday.,called,Is,that,you,2,cleft sentences/emphasis
+10,Do you know what time is it?,Do you know what time it is?,is,what,know,you,1,embedded questions/statements
+11,He arrive early surprised everyone.,His arrival early surprised everyone.,surprised,early,arrive,everyone,3,nominalization/complex noun phrases
+11,They promised they come back early.,They promised they would come back early.,They,early,come,promised,3,reported speech (advanced verbs)
+11,Do you know what time is it?,Do you know what time it is?,is,it,what,know,1,embedded questions/statements
+11,It is required that he attends the meeting.,It is required that he attend the meeting.,attends,the,that,meeting,1,formal/academic structures
+11,"If you were told, you will act quickly.","If you were told, you would act quickly.",If,will,quickly,act,2,advanced conditionals
+11,"The more you study, more you learn.","The more you study, the more you learn.",more,you,study,learn,1,complex comparatives
+11,She admitted to have broken the vase.,She admitted having broken the vase.,to,the,broken,She,1,advanced gerunds/infinitives
+11,Was in 2010 that they moved to London.,It was in 2010 that they moved to London.,Was,they,in,London,1,cleft sentences/emphasis
+11,Rarely she has been so challenged by a project.,Rarely has she been so challenged by a project.,so,she,been,by,2,inversion/emphatic structures
+11,Is a pity you can't come to the party.,It is a pity you can't come to the party.,can't,come,Is,a,3,anticipatory it/there
+11,"His friend, who car was stolen, called the police.","His friend, whose car was stolen, called the police.",His,was,who,the,3,complex relative clauses
+11,She said she will call me after dinner.,She said she would call me after dinner.,dinner,will,she,after,2,future in the past
+12,He is thought win the award next month.,He is thought to win the award next month.,thought,next,win,is,3,advanced passive
+12,"She reads books, and he reads books also.","She reads books, and so does he.",he,also,and,books,4,ellipsis/substitution
+12,"If you were told, you will act quickly.","If you were told, you would act quickly.",quickly,act,you,will,4,advanced conditionals
+12,Only after he left I understood his words.,Only after he left did I understand his words.,left,I,his,after,2,inversion/emphatic structures
+12,The results was significant in all groups.,The results were significant in all groups.,The,results,was,all,3,formal/academic structures
+12,We discuss about the proposal at length yesterday.,Our discussion about the proposal was at length yesterday.,proposal,about,discuss,at,3,nominalization/complex noun phrases
+12,"The book, what I borrowed from you, was fascinating.","The book, which I borrowed from you, was fascinating.",what,you,fascinating,book,1,complex relative clauses
+12,At the top of the hill was the house we visited.,The house we visited was at the top of the hill.,top,house,we,was,4,fronting/thematic structures
+12,She admitted to have broken the vase.,She admitted having broken the vase.,have,She,vase,to,4,advanced gerunds/infinitives
+12,"Having finish the report, he left the office.","Having finished the report, he left the office.",office,left,finish,Having,3,non-finite clauses
+12,I knew they are going to arrive late.,I knew they were going to arrive late.,to,I,going,are,4,future in the past
+12,"As soon he arrives, we will start the meeting.","As soon as he arrives, we will start the meeting.",arrives,will,meeting,soon,4,adverbial clauses
+13,He is thought win the award next month.,He is thought to win the award next month.,next,is,win,thought,3,advanced passive
+13,"Finished the homework, he watched TV.","Having finished the homework, he watched TV.",watched,he,the,Finished,4,participial phrases
+13,"The sooner you leave, sooner you arrive.","The sooner you leave, the sooner you arrive.",arrive,sooner,leave,The,2,complex comparatives
+13,"As soon he arrives, we will start the meeting.","As soon as he arrives, we will start the meeting.",will,soon,he,As,2,adverbial clauses
+13,I wonder when does the show start.,I wonder when the show starts.,when,I,does,start,3,embedded questions/statements
+13,The manager decide to implement the changes quickly.,The manager's decision to implement the changes was quick.,changes,decide,implement,The,2,nominalization/complex noun phrases
+13,"She must be in her office, but I am not sure.","She might be in her office, but I am not sure.",I,She,not,must,4,hedging/modals for speculation
+13,She said she will call me after dinner.,She said she would call me after dinner.,said,She,after,will,4,future in the past
+13,They promised they come back early.,They promised they would come back early.,promised,They,early,come,4,reported speech (advanced verbs)
+13,"If you were told, you will act quickly.","If you were told, you would act quickly.",If,will,act,quickly,2,advanced conditionals
+13,He was late. However he finished the task.,"He was late; however, he finished the task.",the,However,He,he,2,discourse markers/linking devices
+13,Was in 2010 that they moved to London.,It was in 2010 that they moved to London.,in,Was,2010,to,2,cleft sentences/emphasis
+14,"If you were told, you will act quickly.","If you were told, you would act quickly.",you,will,act,quickly,2,advanced conditionals
+14,She is not as taller as her sister.,She is not as tall as her sister.,taller,is,sister,She,1,complex comparatives
+14,"Having finish the report, he left the office.","Having finished the report, he left the office.",finish,report,left,he,1,non-finite clauses
+14,Hardly we had finished when the phone rang.,Hardly had we finished when the phone rang.,we,phone,Hardly,the,1,inversion/emphatic structures
+14,"She reads books, and he reads books also.","She reads books, and so does he.",and,he,She,books,4,ellipsis/substitution
+14,Important is this for your career.,This is important for your career.,for,is,Important,career,3,fronting/thematic structures
+14,There has a lot of people at the event.,There were a lot of people at the event.,of,people,has,There,3,anticipatory it/there
+14,The letter was made write by the student.,The letter was made to be written by the student.,made,letter,The,write,4,advanced passive
+14,He was late. However he finished the task.,"He was late; however, he finished the task.",However,he,late,the,1,discourse markers/linking devices
+14,Is the blue car that I want to buy.,It is the blue car that I want to buy.,Is,to,car,blue,1,cleft sentences/emphasis
+14,"Finished the homework, he watched TV.","Having finished the homework, he watched TV.",TV,Finished,the,he,2,participial phrases
+14,He denied to know anything about it.,He denied knowing anything about it.,about,to,denied,know,2,advanced gerunds/infinitives
+15,He was late. However he finished the task.,"He was late; however, he finished the task.",was,However,He,task,2,discourse markers/linking devices
+15,"If he would have known, he could have acted differently.","If he had known, he could have acted differently.",If,would,differently,have,2,advanced conditionals
+15,"He can have finished already, but it's not certain.","He may have finished already, but it's not certain.",can,have,He,not,1,hedging/modals for speculation
+15,Is Anna that called you yesterday.,It was Anna who called you yesterday.,you,yesterday,Anna,Is,4,cleft sentences/emphasis
+15,Is a pity you can't come to the party.,It is a pity you can't come to the party.,come,Is,to,can't,2,anticipatory it/there
+15,They promised they come back early.,They promised they would come back early.,promised,back,they,come,4,reported speech (advanced verbs)
+15,"I like jazz music, and Tom like jazz music too.","I like jazz music, and so does Tom.",like,and,too,I,1,ellipsis/substitution
+15,I wonder when does the show start.,I wonder when the show starts.,I,does,the,start,2,embedded questions/statements
+15,He thought he will pass the exam.,He thought he would pass the exam.,He,will,thought,pass,2,future in the past
+15,He arrive early surprised everyone.,His arrival early surprised everyone.,He,everyone,early,arrive,4,nominalization/complex noun phrases
+15,"Having see the movie before, I didn't go again.","Having seen the movie before, I didn't go again.",the,before,see,go,3,participial phrases
+15,At the top of the hill was the house we visited.,The house we visited was at the top of the hill.,was,we,At,hill,1,fronting/thematic structures

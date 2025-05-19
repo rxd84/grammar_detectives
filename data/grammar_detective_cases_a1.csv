@@ -1,0 +1,181 @@
+case,error_sentence,correct_sentence,option_1,option_2,option_3,option_4,correct_option,topics
+1,Him is from Spain but lives in France now.,He is from Spain but lives in France now.,now,but,Him,lives,3,subject pronouns
+1,They are eating our pizza in their house.,They are eating their pizza in their house.,their,are,our,in,3,possessive adjectives
+1,That are my friends from Brazil over there.,Those are my friends from Brazil over there.,That,my,there,friends,1,demonstratives (this/that/these/those)
+1,This is the bike of my friend in the garage.,This is my friend's bike in the garage.,friend,the,bike,of,4,possessive 's
+1,My keys are on my bag inside my room.,My keys are in my bag inside my room.,My,on,are,inside,2,prepositions of place
+1,There is five pencils on the table today.,There are five pencils on the table today.,There,is,table,pencils,2,there is/there are
+1,To close your books and listen to the teacher now.,Close your books and listen to the teacher now.,To,your,now,books,1,imperatives
+1,I eat never vegetables for dinner at my house.,I never eat vegetables for dinner at my house.,for,dinner,house,never,4,adverbs of frequency
+1,I can to swim very well at the big pool.,I can swim very well at the big pool.,to,I,swim,pool,1,can/can't
+1,My father cook dinner every night for our family.,My father cooks dinner every night for our family.,cook,every,our,for,1,present simple tense
+1,Tom wants to see they at the park after lunch.,Tom wants to see them at the park after lunch.,they,at,the,wants,1,object pronouns
+1,She have got a new bicycle for her birthday today.,She has got a new bicycle for her birthday today.,have,new,today,bicycle,1,have got/has got
+2,My keys are on my bag inside my room.,My keys are in my bag inside my room.,are,bag,on,keys,3,prepositions of place
+2,They is my best friends from Brazil.,They are my best friends from Brazil.,is,Brazil,friends,from,1,verb to be
+2,To close your books and listen to the teacher now.,Close your books and listen to the teacher now.,teacher,to,the,To,4,imperatives
+2,He have got two sisters and one brother at home.,He has got two sisters and one brother at home.,have,got,at,one,1,have got/has got
+2,They are eating our pizza in their house.,They are eating their pizza in their house.,They,our,are,their,2,possessive adjectives
+2,He are talking on the phone with his friend now.,He is talking on the phone with his friend now.,He,his,the,are,4,present continuous tense
+2,Tom wants to see they at the park after lunch.,Tom wants to see them at the park after lunch.,they,at,to,lunch,1,object pronouns
+2,I eat never vegetables for dinner at my house.,I never eat vegetables for dinner at my house.,for,eat,my,never,4,adverbs of frequency
+2,There are five chair in the kitchen at home.,There are five chairs in the kitchen at home.,in,chair,are,the,2,plural nouns
+2,These is my favorite English book on the small shelf.,This is my favorite English book on the small shelf.,the,favorite,book,These,4,demonstratives (this/that/these/those)
+2,There is five pencils on the table today.,There are five pencils on the table today.,table,is,five,There,2,there is/there are
+2,Where you live with your parents during the summer?,Where do you live with your parents during the summer?,you,live,with,summer,1,simple questions (wh-/yes-no)
+3,We saw elephant at the zoo on Sunday.,We saw an elephant at the zoo on Sunday.,elephant,Sunday,zoo,We,1,articles (a/an/the)
+3,What time your English class finish on Friday?,What time does your English class finish on Friday?,finish,What,on,your,1,simple questions (wh-/yes-no)
+3,We has got many friends in our English class now.,We have got many friends in our English class now.,has,We,many,class,1,have got/has got
+3,They is my best friends from Brazil.,They are my best friends from Brazil.,is,my,from,friends,1,verb to be
+3,Anna washed your hands before lunch at school.,Anna washed her hands before lunch at school.,washed,hands,your,school,3,possessive adjectives
+3,Sarah likes he very much and meets he every Saturday.,Sarah likes him very much and meets him every Saturday.,and,Saturday,Sarah,he,4,object pronouns
+3,Him is from Spain but lives in France now.,He is from Spain but lives in France now.,Spain,lives,but,Him,4,subject pronouns
+3,That is the bag of my mother on the kitchen chair.,That is my mother's bag on the kitchen chair.,my,chair,of,on,3,possessive 's
+3,To close your books and listen to the teacher now.,Close your books and listen to the teacher now.,the,books,To,and,3,imperatives
+3,There are five chair in the kitchen at home.,There are five chairs in the kitchen at home.,in,kitchen,chair,home,3,plural nouns
+3,We can't goes to the party because we are busy.,We can't go to the party because we are busy.,are,We,goes,party,3,can/can't
+3,The bag is in the table in our classroom now.,The bag is on the table in our classroom now.,table,classroom,in,bag,3,prepositions of place
+4,She have got a new bicycle for her birthday today.,She has got a new bicycle for her birthday today.,have,a,today,for,1,have got/has got
+4,I eat never vegetables for dinner at my house.,I never eat vegetables for dinner at my house.,dinner,I,never,my,3,adverbs of frequency
+4,Anna bought two book at the bookstore yesterday.,Anna bought two books at the bookstore yesterday.,book,two,at,yesterday,1,plural nouns
+4,That are my friends from Brazil over there.,Those are my friends from Brazil over there.,from,That,Brazil,friends,2,demonstratives (this/that/these/those)
+4,I have cat and a dog in my house now.,I have a cat and a dog in my house now.,house,a,cat,and,3,articles (a/an/the)
+4,Tom forgot her blue backpack at home this morning.,Tom forgot his blue backpack at home this morning.,her,blue,this,forgot,1,possessive adjectives
+4,My father cook dinner every night for our family.,My father cooks dinner every night for our family.,dinner,family,cook,for,3,present simple tense
+4,We is watching television with our friends right now at home.,We are watching television with our friends right now at home.,We,is,our,home,2,present continuous tense
+4,Can you help we with our homework this afternoon?,Can you help us with our homework this afternoon?,we,with,you,Can,1,object pronouns
+4,We can't goes to the party because we are busy.,We can't go to the party because we are busy.,We,goes,party,because,2,can/can't
+4,"To open the window, please, because it is very hot.","Open the window, please, because it is very hot.",very,To,please,is,2,imperatives
+4,The bag is in the table in our classroom now.,The bag is on the table in our classroom now.,now,in,table,The,2,prepositions of place
+5,There is many students in the classroom now.,There are many students in the classroom now.,many,in,is,now,3,there is/there are
+5,That is the bag of my mother on the kitchen chair.,That is my mother's bag on the kitchen chair.,my,chair,of,That,3,possessive 's
+5,I eat never vegetables for dinner at my house.,I never eat vegetables for dinner at my house.,for,house,never,dinner,3,adverbs of frequency
+5,Anna go to school by bus every morning with her brother.,Anna goes to school by bus every morning with her brother.,her,go,school,every,2,present simple tense
+5,"Your shoes are at the bed, please pick them up.","Your shoes are under the bed, please pick them up.",them,the,bed,at,4,prepositions of place
+5,They is my best friends from Brazil.,They are my best friends from Brazil.,They,Brazil,is,my,3,verb to be
+5,Anna washed your hands before lunch at school.,Anna washed her hands before lunch at school.,lunch,your,school,before,2,possessive adjectives
+5,Sarah likes he very much and meets he every Saturday.,Sarah likes him very much and meets him every Saturday.,meets,he,and,Saturday,2,object pronouns
+5,What time your English class finish on Friday?,What time does your English class finish on Friday?,class,Friday,finish,English,3,simple questions (wh-/yes-no)
+5,She can sings beautiful songs for the class.,She can sing beautiful songs for the class.,sings,class,the,songs,1,can/can't
+5,My friend has three dog in his house near the park.,My friend has three dogs in his house near the park.,his,three,the,dog,4,plural nouns
+5,To close your books and listen to the teacher now.,Close your books and listen to the teacher now.,To,books,your,listen,1,imperatives
+6,I have cat and a dog in my house now.,I have a cat and a dog in my house now.,in,a,cat,my,3,articles (a/an/the)
+6,She can sings beautiful songs for the class.,She can sing beautiful songs for the class.,the,sings,class,She,2,can/can't
+6,What time your English class finish on Friday?,What time does your English class finish on Friday?,English,Friday,class,finish,4,simple questions (wh-/yes-no)
+6,These is my favorite English book on the small shelf.,This is my favorite English book on the small shelf.,my,These,the,English,2,demonstratives (this/that/these/those)
+6,The cats was under the table all day.,The cats were under the table all day.,all,day,the,was,4,verb to be
+6,Anna go to school by bus every morning with her brother.,Anna goes to school by bus every morning with her brother.,every,bus,to,go,4,present simple tense
+6,We has got many friends in our English class now.,We have got many friends in our English class now.,friends,has,English,in,2,have got/has got
+6,"Your shoes are at the bed, please pick them up.","Your shoes are under the bed, please pick them up.",shoes,at,please,them,2,prepositions of place
+6,I eat never vegetables for dinner at my house.,I never eat vegetables for dinner at my house.,eat,vegetables,never,for,3,adverbs of frequency
+6,To write your name on the paper before you start.,Write your name on the paper before you start.,name,start,before,To,4,imperatives
+6,There are a cat in the garden every night.,There is a cat in the garden every night.,garden,are,in,There,2,there is/there are
+6,Anna washed your hands before lunch at school.,Anna washed her hands before lunch at school.,lunch,at,your,before,3,possessive adjectives
+7,My keys are on my bag inside my room.,My keys are in my bag inside my room.,My,on,my,are,2,prepositions of place
+7,There are a cat in the garden every night.,There is a cat in the garden every night.,the,cat,a,are,4,there is/there are
+7,He go always to bed late after watching his favorite show.,He always goes to bed late after watching his favorite show.,go,bed,late,watching,1,adverbs of frequency
+7,Tom wants to see they at the park after lunch.,Tom wants to see them at the park after lunch.,see,they,Tom,wants,2,object pronouns
+7,They is my best friends from Brazil.,They are my best friends from Brazil.,is,my,best,from,1,verb to be
+7,That are my friends from Brazil over there.,Those are my friends from Brazil over there.,over,That,from,friends,2,demonstratives (this/that/these/those)
+7,My friend has three dog in his house near the park.,My friend has three dogs in his house near the park.,friend,near,the,dog,4,plural nouns
+7,Those are the toys of the children in the park.,Those are the children's toys in the park.,of,the,children,toys,1,possessive 's
+7,Anna washed your hands before lunch at school.,Anna washed her hands before lunch at school.,hands,at,washed,your,4,possessive adjectives
+7,How many brother do you have at home?,How many brothers do you have at home?,many,you,home,brother,4,simple questions (wh-/yes-no)
+7,My father cook dinner every night for our family.,My father cooks dinner every night for our family.,our,cook,father,night,2,present simple tense
+7,We saw elephant at the zoo on Sunday.,We saw an elephant at the zoo on Sunday.,elephant,at,saw,the,1,articles (a/an/the)
+8,How many brother do you have at home?,How many brothers do you have at home?,brother,you,at,home,1,simple questions (wh-/yes-no)
+8,Me likes to read books in the library after lunch.,I like to read books in the library after lunch.,lunch,Me,in,after,2,subject pronouns
+8,She have got a new bicycle for her birthday today.,She has got a new bicycle for her birthday today.,today,her,She,have,4,have got/has got
+8,There is many students in the classroom now.,There are many students in the classroom now.,is,classroom,There,now,1,there is/there are
+8,I can to swim very well at the big pool.,I can swim very well at the big pool.,pool,the,to,at,3,can/can't
+8,To close your books and listen to the teacher now.,Close your books and listen to the teacher now.,to,and,close,To,4,imperatives
+8,Anna go to school by bus every morning with her brother.,Anna goes to school by bus every morning with her brother.,to,bus,go,morning,3,present simple tense
+8,The bag is in the table in our classroom now.,The bag is on the table in our classroom now.,now,is,our,in,4,prepositions of place
+8,The cats was under the table all day.,The cats were under the table all day.,was,cats,under,day,1,verb to be
+8,I eat never vegetables for dinner at my house.,I never eat vegetables for dinner at my house.,never,I,my,eat,1,adverbs of frequency
+8,She wants apple for breakfast every morning.,She wants an apple for breakfast every morning.,apple,for,breakfast,She,1,articles (a/an/the)
+8,That are my friends from Brazil over there.,Those are my friends from Brazil over there.,over,from,That,are,3,demonstratives (this/that/these/those)
+9,We sometimes is late for the first lesson at school.,We are sometimes late for the first lesson at school.,is,late,school,We,1,adverbs of frequency
+9,You am studying for your English exam this evening.,You are studying for your English exam this evening.,am,English,this,You,1,present continuous tense
+9,Us is going to the supermarket together this afternoon.,We are going to the supermarket together this afternoon.,Us,is,together,the,1,subject pronouns
+9,Anna bought two book at the bookstore yesterday.,Anna bought two books at the bookstore yesterday.,yesterday,Anna,bought,book,4,plural nouns
+9,These is my favorite English book on the small shelf.,This is my favorite English book on the small shelf.,English,is,book,These,4,demonstratives (this/that/these/those)
+9,She can sings beautiful songs for the class.,She can sing beautiful songs for the class.,She,can,beautiful,sings,4,can/can't
+9,My keys are on my bag inside my room.,My keys are in my bag inside my room.,on,room,are,my,1,prepositions of place
+9,To close your books and listen to the teacher now.,Close your books and listen to the teacher now.,books,teacher,To,and,3,imperatives
+9,How many brother do you have at home?,How many brothers do you have at home?,you,at,brother,many,3,simple questions (wh-/yes-no)
+9,He have got two sisters and one brother at home.,He has got two sisters and one brother at home.,brother,one,and,have,4,have got/has got
+9,There is five pencils on the table today.,There are five pencils on the table today.,pencils,five,is,the,3,there is/there are
+9,Tom wants to see they at the park after lunch.,Tom wants to see them at the park after lunch.,they,see,Tom,wants,1,object pronouns
+10,Him is from Spain but lives in France now.,He is from Spain but lives in France now.,now,Spain,Him,from,3,subject pronouns
+10,We is watching television with our friends right now at home.,We are watching television with our friends right now at home.,is,right,watching,at,1,present continuous tense
+10,We plays football in the park after school every day.,We play football in the park after school every day.,the,plays,in,park,2,present simple tense
+10,What time your English class finish on Friday?,What time does your English class finish on Friday?,finish,English,class,on,1,simple questions (wh-/yes-no)
+10,She wants apple for breakfast every morning.,She wants an apple for breakfast every morning.,for,She,morning,apple,4,articles (a/an/the)
+10,Can you help we with our homework this afternoon?,Can you help us with our homework this afternoon?,our,with,help,we,4,object pronouns
+10,To write your name on the paper before you start.,Write your name on the paper before you start.,before,paper,you,To,4,imperatives
+10,My keys are on my bag inside my room.,My keys are in my bag inside my room.,My,on,my,room,2,prepositions of place
+10,Anna bought two book at the bookstore yesterday.,Anna bought two books at the bookstore yesterday.,at,yesterday,book,Anna,3,plural nouns
+10,He have got two sisters and one brother at home.,He has got two sisters and one brother at home.,two,He,one,have,4,have got/has got
+10,There is many students in the classroom now.,There are many students in the classroom now.,is,in,classroom,many,1,there is/there are
+10,These is my favorite English book on the small shelf.,This is my favorite English book on the small shelf.,These,on,my,small,1,demonstratives (this/that/these/those)
+11,She have got a new bicycle for her birthday today.,She has got a new bicycle for her birthday today.,bicycle,got,today,have,4,have got/has got
+11,Us is going to the supermarket together this afternoon.,We are going to the supermarket together this afternoon.,is,supermarket,Us,going,3,subject pronouns
+11,"Your shoes are at the bed, please pick them up.","Your shoes are under the bed, please pick them up.",are,the,at,Your,3,prepositions of place
+11,We can't goes to the party because we are busy.,We can't go to the party because we are busy.,the,we,goes,party,3,can/can't
+11,Those are the toys of the children in the park.,Those are the children's toys in the park.,children,of,are,the,2,possessive 's
+11,I have cat and a dog in my house now.,I have a cat and a dog in my house now.,have,house,cat,and,3,articles (a/an/the)
+11,I eat never vegetables for dinner at my house.,I never eat vegetables for dinner at my house.,house,eat,never,my,3,adverbs of frequency
+11,Tom forgot her blue backpack at home this morning.,Tom forgot his blue backpack at home this morning.,home,her,backpack,blue,2,possessive adjectives
+11,This are the shoes I want to buy today.,These are the shoes I want to buy today.,This,I,today,the,1,demonstratives (this/that/these/those)
+11,Sarah likes he very much and meets he every Saturday.,Sarah likes him very much and meets him every Saturday.,and,much,he,every,3,object pronouns
+11,There is five pencils on the table today.,There are five pencils on the table today.,is,five,on,today,1,there is/there are
+11,He are talking on the phone with his friend now.,He is talking on the phone with his friend now.,friend,are,talking,on,2,present continuous tense
+12,There are five chair in the kitchen at home.,There are five chairs in the kitchen at home.,at,are,five,chair,4,plural nouns
+12,That is the bag of my mother on the kitchen chair.,That is my mother's bag on the kitchen chair.,bag,on,my,of,4,possessive 's
+12,You am studying for your English exam this evening.,You are studying for your English exam this evening.,am,English,your,exam,1,present continuous tense
+12,Can you help we with our homework this afternoon?,Can you help us with our homework this afternoon?,Can,with,we,homework,3,object pronouns
+12,There are a cat in the garden every night.,There is a cat in the garden every night.,the,night,are,garden,3,there is/there are
+12,To write your name on the paper before you start.,Write your name on the paper before you start.,To,write,before,you,1,imperatives
+12,These is my favorite English book on the small shelf.,This is my favorite English book on the small shelf.,favorite,These,my,book,2,demonstratives (this/that/these/those)
+12,I have cat and a dog in my house now.,I have a cat and a dog in my house now.,cat,house,have,I,1,articles (a/an/the)
+12,They is my best friends from Brazil.,They are my best friends from Brazil.,best,friends,is,from,3,verb to be
+12,Him is from Spain but lives in France now.,He is from Spain but lives in France now.,lives,in,Him,Spain,3,subject pronouns
+12,Where you live with your parents during the summer?,Where do you live with your parents during the summer?,your,the,you,with,3,simple questions (wh-/yes-no)
+12,Tom forgot her blue backpack at home this morning.,Tom forgot his blue backpack at home this morning.,this,her,morning,backpack,2,possessive adjectives
+13,These is my favorite English book on the small shelf.,This is my favorite English book on the small shelf.,my,These,English,small,2,demonstratives (this/that/these/those)
+13,"To open the window, please, because it is very hot.","Open the window, please, because it is very hot.",it,To,window,because,2,imperatives
+13,Tom forgot her blue backpack at home this morning.,Tom forgot his blue backpack at home this morning.,Tom,morning,at,her,4,possessive adjectives
+13,They is my best friends from Brazil.,They are my best friends from Brazil.,my,Brazil,is,from,3,verb to be
+13,My friend has three dog in his house near the park.,My friend has three dogs in his house near the park.,dog,the,in,his,1,plural nouns
+13,Sarah likes he very much and meets he every Saturday.,Sarah likes him very much and meets him every Saturday.,Sarah,he,much,likes,2,object pronouns
+13,Him is from Spain but lives in France now.,He is from Spain but lives in France now.,is,now,Him,in,3,subject pronouns
+13,This is the bike of my friend in the garage.,This is my friend's bike in the garage.,the,my,friend,of,4,possessive 's
+13,Where you live with your parents during the summer?,Where do you live with your parents during the summer?,summer,live,you,your,3,simple questions (wh-/yes-no)
+13,There is five pencils on the table today.,There are five pencils on the table today.,pencils,the,table,is,4,there is/there are
+13,We has got many friends in our English class now.,We have got many friends in our English class now.,in,has,class,We,2,have got/has got
+13,We sometimes is late for the first lesson at school.,We are sometimes late for the first lesson at school.,school,is,lesson,sometimes,2,adverbs of frequency
+14,I have cat and a dog in my house now.,I have a cat and a dog in my house now.,I,dog,cat,a,3,articles (a/an/the)
+14,I can to swim very well at the big pool.,I can swim very well at the big pool.,at,to,the,very,2,can/can't
+14,This are the shoes I want to buy today.,These are the shoes I want to buy today.,buy,This,want,I,2,demonstratives (this/that/these/those)
+14,To write your name on the paper before you start.,Write your name on the paper before you start.,name,on,paper,To,4,imperatives
+14,"Your shoes are at the bed, please pick them up.","Your shoes are under the bed, please pick them up.",the,them,at,bed,3,prepositions of place
+14,Tom wants to see they at the park after lunch.,Tom wants to see them at the park after lunch.,Tom,they,wants,park,2,object pronouns
+14,My friend has three dog in his house near the park.,My friend has three dogs in his house near the park.,his,the,has,dog,4,plural nouns
+14,There is many students in the classroom now.,There are many students in the classroom now.,There,now,in,is,4,there is/there are
+14,My father cook dinner every night for our family.,My father cooks dinner every night for our family.,cook,every,our,night,1,present simple tense
+14,Us is going to the supermarket together this afternoon.,We are going to the supermarket together this afternoon.,to,Us,going,is,2,subject pronouns
+14,Where you live with your parents during the summer?,Where do you live with your parents during the summer?,your,Where,parents,you,4,simple questions (wh-/yes-no)
+14,You am studying for your English exam this evening.,You are studying for your English exam this evening.,for,English,this,am,4,present continuous tense
+15,Anna bought two book at the bookstore yesterday.,Anna bought two books at the bookstore yesterday.,book,yesterday,Anna,bookstore,1,plural nouns
+15,Tom forgot her blue backpack at home this morning.,Tom forgot his blue backpack at home this morning.,blue,her,Tom,backpack,2,possessive adjectives
+15,We saw elephant at the zoo on Sunday.,We saw an elephant at the zoo on Sunday.,saw,elephant,We,on,2,articles (a/an/the)
+15,I can to swim very well at the big pool.,I can swim very well at the big pool.,very,swim,pool,to,4,can/can't
+15,Anna go to school by bus every morning with her brother.,Anna goes to school by bus every morning with her brother.,to,bus,every,go,4,present simple tense
+15,Where you live with your parents during the summer?,Where do you live with your parents during the summer?,summer,your,Where,you,4,simple questions (wh-/yes-no)
+15,Him is from Spain but lives in France now.,He is from Spain but lives in France now.,from,but,now,Him,4,subject pronouns
+15,He are talking on the phone with his friend now.,He is talking on the phone with his friend now.,are,the,his,with,1,present continuous tense
+15,She have got a new bicycle for her birthday today.,She has got a new bicycle for her birthday today.,new,She,got,have,4,have got/has got
+15,There is five pencils on the table today.,There are five pencils on the table today.,the,is,pencils,on,2,there is/there are
+15,He go always to bed late after watching his favorite show.,He always goes to bed late after watching his favorite show.,show,his,go,always,3,adverbs of frequency
+15,That are my friends from Brazil over there.,Those are my friends from Brazil over there.,That,over,friends,from,1,demonstratives (this/that/these/those)

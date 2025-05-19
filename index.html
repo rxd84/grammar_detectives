@@ -1,0 +1,432 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Grammar Detective</title>
+    <link rel="stylesheet" href="style.css">
+    <style>
+        /* Fade-in overlays for Solve/Next buttons in case screen */
+        .solve-btn, .nav-btn {
+            position: relative;
+        }
+        .hover-solve, .hover-next {
+            width: 100%;
+            height: 100%;
+            opacity: 0;
+            pointer-events: none;
+            transition: opacity 0.3s;
+            position: absolute;
+            top: 0; left: 0;
+            z-index: 10;
+        }
+        .solve-btn:hover .hover-solve {
+            opacity: 1;
+        }
+        .nav-btn:hover .hover-next {
+            opacity: 1;
+        }
+    </style>
+</head>
+<body>
+    <audio id="bg-music" loop>
+        <source src="sounds/grammar_detective_music01.mp3" type="audio/mpeg">
+        Your browser does not support the audio element.
+    </audio>
+    <!-- Sound effects for game logic -->
+    <audio id="hover-folder-sound" src="sounds/hover_over_folder.mp3"></audio>
+    <audio id="folder-click-sound" src="sounds/file_click.mp3"></audio>
+    <audio id="sound-correct" src="sounds/correct.mp3"></audio>
+    <audio id="sound-wrong" src="sounds/wrong.mp3"></audio>
+    <audio id="sound-click" src="sounds/click.mp3"></audio>
+
+    <!-- Transition Fade Overlay -->
+    <div id="fade-overlay"></div>
+
+    <!-- INTRO SCREENS (no toggle button here) -->
+    <div class="background" id="intro-screen-1" style="display: none;">
+        <img src="images/intro_screen_1.png" class="bg-image" alt="Intro Screen 1">
+    </div>
+    <div class="background" id="intro-screen-2">
+        <img src="images/intro_screen_2.png" class="bg-image" alt="Intro Screen 2">
+        <img src="images/sound_intro_on.png" class="intro-btn" id="intro-sound-on" alt="Sound On">
+        <img src="images/sound_intro_off.png" class="intro-btn" id="intro-sound-off" alt="Sound Off">
+    </div>
+
+    <!-- MAIN MENU SCREEN -->
+    <div class="background" id="menu-screen" style="display: none;">
+        <img src="images/bg_grammar_detectives_menu.png" class="bg-image" alt="Background">
+        <img src="images/sound_on.png" class="sound-toggle" alt="Toggle Sound">
+        <div class="hotspot-cases" onclick="goToPlayerScreen()">
+            <img src="images/bt_start.png" class="hover-cases" alt="Start Button">
+        </div>
+        <!-- SCORE JUMP DEV FEATURE START -->
+        <div id="dev-score-input" style="position:absolute; top:500%; left:500%; 
+ width:18%; z-index:5; display:flex; flex-direction:row; align-items:center; gap:6px;"> 
+            
+       </div>
+        <!-- SCORE JUMP DEV FEATURE END -->
+    </div>
+
+    <!-- PLAYER SELECT SCREEN -->
+    <div class="background" id="player-screen" style="display: none;">
+        <img src="images/bg_grammar_detectives_levels.png" class="bg-image" alt="Player Select Background">
+        <img src="images/sound_on.png" class="sound-toggle" alt="Toggle Sound">
+        <div class="level-btn level-1"><img src="images/level_hover_1.png" class="level-hover"></div>
+        <div class="level-btn level-2"><img src="images/level_hover_2.png" class="level-hover"></div>
+        <div class="level-btn level-3"><img src="images/level_hover_3.png" class="level-hover"></div>
+        <div class="level-btn level-4"><img src="images/level_hover_4.png" class="level-hover"></div>
+        <div class="level-btn level-5"><img src="images/level_hover_5.png" class="level-hover"></div>
+        <div class="back-btn"><img src="images/bt_back.png" class="back-hover" alt="Back"></div>
+    </div>
+
+    <!-- LEVEL A1 CASE SELECTION SCREEN -->
+    <div id="level-a1" class="background level-screen" style="display:none; position:relative;">
+        <img src="images/bg_grammar_detectives_a1.png" class="bg-image" alt="A1 Case Selection">
+        <img class="folder-overlay" id="folder-overlay-a1" src="" style="display:none; position:absolute; left:0; top:0; width:0; height:0; pointer-events:none; z-index:50;">
+        <img src="images/sound_on.png" class="sound-toggle" alt="Toggle Sound">
+        <div class="folder folder-1" data-case="1" data-level="a1" id="folder-a1-1"></div>
+        <div class="folder folder-2" data-case="2" data-level="a1" id="folder-a1-2"></div>
+        <div class="folder folder-3" data-case="3" data-level="a1" id="folder-a1-3"></div>
+        <div class="folder folder-4" data-case="4" data-level="a1" id="folder-a1-4"></div>
+        <div class="folder folder-5" data-case="5" data-level="a1" id="folder-a1-5"></div>
+        <div class="folder folder-6" data-case="6" data-level="a1" id="folder-a1-6"></div>
+        <div class="folder folder-7" data-case="7" data-level="a1" id="folder-a1-7"></div>
+        <div class="folder folder-8" data-case="8" data-level="a1" id="folder-a1-8"></div>
+        <div class="folder folder-9" data-case="9" data-level="a1" id="folder-a1-9"></div>
+        <div class="folder folder-10" data-case="10" data-level="a1" id="folder-a1-10"></div>
+        <div class="folder folder-11" data-case="11" data-level="a1" id="folder-a1-11"></div>
+        <div class="folder folder-12" data-case="12" data-level="a1" id="folder-a1-12"></div>
+        <div class="folder folder-13" data-case="13" data-level="a1" id="folder-a1-13"></div>
+        <div class="folder folder-14" data-case="14" data-level="a1" id="folder-a1-14"></div>
+        <div class="folder folder-15" data-case="15" data-level="a1" id="folder-a1-15"></div>
+        <div class="back-btn"><img src="images/bt_back.png" class="back-hover" alt="Back"></div>
+    </div>
+
+    <!-- LEVEL A2 CASE SELECTION SCREEN -->
+    <div id="level-a2" class="background level-screen" style="display:none; position:relative;">
+        <img src="images/bg_grammar_detectives_a2.png" class="bg-image" alt="A2 Case Selection">
+        <img class="folder-overlay" id="folder-overlay-a2" src="" style="display:none; position:absolute; left:0; top:0; width:0; height:0; pointer-events:none; z-index:50;">
+        <img src="images/sound_on.png" class="sound-toggle" alt="Toggle Sound">
+        <div class="folder folder-1" data-case="1" data-level="a2" id="folder-a2-1"></div>
+        <div class="folder folder-2" data-case="2" data-level="a2" id="folder-a2-2"></div>
+        <div class="folder folder-3" data-case="3" data-level="a2" id="folder-a2-3"></div>
+        <div class="folder folder-4" data-case="4" data-level="a2" id="folder-a2-4"></div>
+        <div class="folder folder-5" data-case="5" data-level="a2" id="folder-a2-5"></div>
+        <div class="folder folder-6" data-case="6" data-level="a2" id="folder-a2-6"></div>
+        <div class="folder folder-7" data-case="7" data-level="a2" id="folder-a2-7"></div>
+        <div class="folder folder-8" data-case="8" data-level="a2" id="folder-a2-8"></div>
+        <div class="folder folder-9" data-case="9" data-level="a2" id="folder-a2-9"></div>
+        <div class="folder folder-10" data-case="10" data-level="a2" id="folder-a2-10"></div>
+        <div class="folder folder-11" data-case="11" data-level="a2" id="folder-a2-11"></div>
+        <div class="folder folder-12" data-case="12" data-level="a2" id="folder-a2-12"></div>
+        <div class="folder folder-13" data-case="13" data-level="a2" id="folder-a2-13"></div>
+        <div class="folder folder-14" data-case="14" data-level="a2" id="folder-a2-14"></div>
+        <div class="folder folder-15" data-case="15" data-level="a2" id="folder-a2-15"></div>
+        <div class="back-btn"><img src="images/bt_back.png" class="back-hover" alt="Back"></div>
+    </div>
+
+    <!-- LEVEL B1 CASE SELECTION SCREEN -->
+    <div id="level-b1" class="background level-screen" style="display:none; position:relative;">
+        <img src="images/bg_grammar_detectives_b1.png" class="bg-image" alt="B1 Case Selection">
+        <img class="folder-overlay" id="folder-overlay-b1" src="" style="display:none; position:absolute; left:0; top:0; width:0; height:0; pointer-events:none; z-index:50;">
+        <img src="images/sound_on.png" class="sound-toggle" alt="Toggle Sound">
+        <div class="folder folder-1" data-case="1" data-level="b1" id="folder-b1-1"></div>
+        <div class="folder folder-2" data-case="2" data-level="b1" id="folder-b1-2"></div>
+        <div class="folder folder-3" data-case="3" data-level="b1" id="folder-b1-3"></div>
+        <div class="folder folder-4" data-case="4" data-level="b1" id="folder-b1-4"></div>
+        <div class="folder folder-5" data-case="5" data-level="b1" id="folder-b1-5"></div>
+        <div class="folder folder-6" data-case="6" data-level="b1" id="folder-b1-6"></div>
+        <div class="folder folder-7" data-case="7" data-level="b1" id="folder-b1-7"></div>
+        <div class="folder folder-8" data-case="8" data-level="b1" id="folder-b1-8"></div>
+        <div class="folder folder-9" data-case="9" data-level="b1" id="folder-b1-9"></div>
+        <div class="folder folder-10" data-case="10" data-level="b1" id="folder-b1-10"></div>
+        <div class="folder folder-11" data-case="11" data-level="b1" id="folder-b1-11"></div>
+        <div class="folder folder-12" data-case="12" data-level="b1" id="folder-b1-12"></div>
+        <div class="folder folder-13" data-case="13" data-level="b1" id="folder-b1-13"></div>
+        <div class="folder folder-14" data-case="14" data-level="b1" id="folder-b1-14"></div>
+        <div class="folder folder-15" data-case="15" data-level="b1" id="folder-b1-15"></div>
+        <div class="back-btn"><img src="images/bt_back.png" class="back-hover" alt="Back"></div>
+    </div>
+
+    <!-- LEVEL B2 CASE SELECTION SCREEN -->
+    <div id="level-b2" class="background level-screen" style="display:none; position:relative;">
+        <img src="images/bg_grammar_detectives_b2.png" class="bg-image" alt="B2 Case Selection">
+        <img class="folder-overlay" id="folder-overlay-b2" src="" style="display:none; position:absolute; left:0; top:0; width:0; height:0; pointer-events:none; z-index:50;">
+        <img src="images/sound_on.png" class="sound-toggle" alt="Toggle Sound">
+        <div class="folder folder-1" data-case="1" data-level="b2" id="folder-b2-1"></div>
+        <div class="folder folder-2" data-case="2" data-level="b2" id="folder-b2-2"></div>
+        <div class="folder folder-3" data-case="3" data-level="b2" id="folder-b2-3"></div>
+        <div class="folder folder-4" data-case="4" data-level="b2" id="folder-b2-4"></div>
+        <div class="folder folder-5" data-case="5" data-level="b2" id="folder-b2-5"></div>
+        <div class="folder folder-6" data-case="6" data-level="b2" id="folder-b2-6"></div>
+        <div class="folder folder-7" data-case="7" data-level="b2" id="folder-b2-7"></div>
+        <div class="folder folder-8" data-case="8" data-level="b2" id="folder-b2-8"></div>
+        <div class="folder folder-9" data-case="9" data-level="b2" id="folder-b2-9"></div>
+        <div class="folder folder-10" data-case="10" data-level="b2" id="folder-b2-10"></div>
+        <div class="folder folder-11" data-case="11" data-level="b2" id="folder-b2-11"></div>
+        <div class="folder folder-12" data-case="12" data-level="b2" id="folder-b2-12"></div>
+        <div class="folder folder-13" data-case="13" data-level="b2" id="folder-b2-13"></div>
+        <div class="folder folder-14" data-case="14" data-level="b2" id="folder-b2-14"></div>
+        <div class="folder folder-15" data-case="15" data-level="b2" id="folder-b2-15"></div>
+        <div class="back-btn"><img src="images/bt_back.png" class="back-hover" alt="Back"></div>
+    </div>
+
+    <!-- LEVEL C1 CASE SELECTION SCREEN -->
+    <div id="level-c1" class="background level-screen" style="display:none; position:relative;">
+        <img src="images/bg_grammar_detectives_c1.png" class="bg-image" alt="C1 Case Selection">
+        <img class="folder-overlay" id="folder-overlay-c1" src="" style="display:none; position:absolute; left:0; top:0; width:0; height:0; pointer-events:none; z-index:50;">
+        <img src="images/sound_on.png" class="sound-toggle" alt="Toggle Sound">
+        <div class="folder folder-1" data-case="1" data-level="c1" id="folder-c1-1"></div>
+        <div class="folder folder-2" data-case="2" data-level="c1" id="folder-c1-2"></div>
+        <div class="folder folder-3" data-case="3" data-level="c1" id="folder-c1-3"></div>
+        <div class="folder folder-4" data-case="4" data-level="c1" id="folder-c1-4"></div>
+        <div class="folder folder-5" data-case="5" data-level="c1" id="folder-c1-5"></div>
+        <div class="folder folder-6" data-case="6" data-level="c1" id="folder-c1-6"></div>
+        <div class="folder folder-7" data-case="7" data-level="c1" id="folder-c1-7"></div>
+        <div class="folder folder-8" data-case="8" data-level="c1" id="folder-c1-8"></div>
+        <div class="folder folder-9" data-case="9" data-level="c1" id="folder-c1-9"></div>
+        <div class="folder folder-10" data-case="10" data-level="c1" id="folder-c1-10"></div>
+        <div class="folder folder-11" data-case="11" data-level="c1" id="folder-c1-11"></div>
+        <div class="folder folder-12" data-case="12" data-level="c1" id="folder-c1-12"></div>
+        <div class="folder folder-13" data-case="13" data-level="c1" id="folder-c1-13"></div>
+        <div class="folder folder-14" data-case="14" data-level="c1" id="folder-c1-14"></div>
+        <div class="folder folder-15" data-case="15" data-level="c1" id="folder-c1-15"></div>
+        <div class="back-btn"><img src="images/bt_back.png" class="back-hover" alt="Back"></div>
+    </div>
+
+    <!-- CASE SCREEN -->
+    <div class="background" id="case-screen" style="display: none;">
+        <img src="images/bg_case_screen.png" class="bg-image" alt="Case Background">
+        <img id="feedback-image" src="images/a1_neutral.png" style="position:absolute; left:1%; top:28.9%; width:40%; height:auto; z-index:99;">
+        <div class="error-sentence" id="error-sentence"></div>
+        <div class="correct-sentence" id="correct-sentence" style="display: none;"></div>
+        <div class="option-btn" id="option-1" data-option="1"></div>
+        <div class="option-btn" id="option-2" data-option="2"></div>
+        <div class="option-btn" id="option-3" data-option="3"></div>
+        <div class="option-btn" id="option-4" data-option="4"></div>
+        <!-- SOLVE BUTTON with fade-in png -->
+        <div class="solve-btn placeholder-btn" id="solve-btn">
+            <img src="images/solve_case_bt.png" class="hover-solve" alt="Solve Button" />
+        </div>
+        <div class="back-btn"><img src="images/bt_back.png" class="back-hover" alt="Back"></div>
+        <!-- NEXT BUTTON with fade-in png -->
+        <div class="nav-btn placeholder-btn" id="next-btn">
+            <img src="images/next_case_bt.png" class="hover-next" alt="Next Button" />
+        </div>
+    </div>
+
+    <!-- SCORE SCREEN -->
+    <div class="background" id="score-screen" style="display: none;">
+        <!-- <img src="images/bg_case_score.png" class="bg-image" alt="Score Background"> -->
+        <!-- <img src="images/sound_on.png" class="sound-toggle" alt="Toggle Sound"> -->
+        <div id="final-score" style="display: none;"></div>
+        <!-- CHARACTER RESULT IMAGE REMOVED: NOW BACKGROUND -->
+
+        <!-- NEW: FEEDBACK & SEQUENCE IMAGES/ELEMENTS -->
+        <img id="closed-cases-img" src="images/closed_cases.png" style="display:none; opacity:0; position:absolute; width:35%; left:7%; top:8%; z-index:30;">
+        <img id="dialogue-box-img" src="images/dialogue_box.png" style="display:none; opacity:0; position:absolute; width:55%; left:35%; top:32%; z-index:31;">
+        <div id="feedback-textbox" style="display:none; opacity:0; position:absolute; left:40%; top:39%; width:42%; min-height:48px; font-size:1.4vw; color:#222; z-index:32; font-family:inherit; font-weight:bold; text-align:left;"></div>
+        <!-- END NEW -->
+<!-- Responsive, invisible Menu PNG (appears on hover) -->
+<img id="responsive-menu-btn"
+     src="images/bt_menu.png"
+     alt="Menu"
+     onclick="goToMainMenu(); playClickSound();">
+        
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    <!-- ================= JS SCRIPTS ===================== -->
+    <script src="intro.js"></script>
+    <script src="script.js"></script>
+    <script src="player.js"></script>
+    <script src="case.js"></script>
+    <script>
+        // Robust music toggle for all screens (re-attaches listeners)
+        function playClickSound() {
+            const clickAudio = document.getElementById("sound-click");
+            if (clickAudio) {
+                clickAudio.currentTime = 0;
+                clickAudio.play();
+            }
+        }
+        function attachSoundToggleListeners() {
+            const bgMusic = document.getElementById("bg-music");
+            function setMusicIcon(isOn) {
+                document.querySelectorAll(".sound-toggle").forEach(btn => {
+                    btn.src = isOn ? "images/sound_on.png" : "images/sound_off.png";
+                });
+            }
+            document.querySelectorAll(".sound-toggle").forEach(btn => {
+                // Remove all previous listeners by replacing with clone
+                let newBtn = btn.cloneNode(true);
+                btn.parentNode.replaceChild(newBtn, btn);
+            });
+            document.querySelectorAll(".sound-toggle").forEach(btn => {
+                btn.addEventListener("click", function () {
+                    playClickSound();
+                    if (bgMusic.paused) {
+                        bgMusic.currentTime = 0;
+                        bgMusic.volume = 0;
+                        bgMusic.play();
+                        // Fade in music
+                        let v = 0;
+                        const fadeIn = setInterval(() => {
+                            if (v < 0.5) {
+                                v += 0.02;
+                                bgMusic.volume = v;
+                            } else {
+                                bgMusic.volume = 0.5;
+                                clearInterval(fadeIn);
+                            }
+                        }, 30);
+                        setMusicIcon(true);
+                    } else {
+                        bgMusic.pause();
+                        setMusicIcon(false);
+                    }
+                });
+            });
+            // Sync icon if music started elsewhere
+            bgMusic.addEventListener("play", () => setMusicIcon(true));
+            bgMusic.addEventListener("pause", () => setMusicIcon(false));
+        }
+
+        document.addEventListener("DOMContentLoaded", function () {
+            attachSoundToggleListeners();
+        });
+    </script>
+    <script>
+        // FOLDER OVERLAY HOVER LOGIC + SOUND
+        document.addEventListener("DOMContentLoaded", function () {
+            const hoverFolderSound = document.getElementById("hover-folder-sound");
+            ["a1", "a2", "b1", "b2", "c1"].forEach(function(level) {
+                const overlay = document.getElementById("folder-overlay-" + level);
+                if (!overlay) return;
+                for (let i = 1; i <= 15; i++) {
+                    const folder = document.getElementById(`folder-${level}-${i}`);
+                    if (!folder) continue;
+
+                    folder.addEventListener("mouseenter", function () {
+                        const rect = folder.getBoundingClientRect();
+                        const parentRect = folder.parentElement.getBoundingClientRect();
+                        overlay.src = `images/folder${i}.png`;
+                        overlay.style.display = "block";
+                        overlay.style.left = (rect.left - parentRect.left) + "px";
+                        overlay.style.top = (rect.top - parentRect.top) + "px";
+                        overlay.style.width = rect.width + "px";
+                        overlay.style.height = rect.height + "px";
+                        // Play hover sound (low volume)
+                        if (hoverFolderSound) {
+                            hoverFolderSound.volume = 0.3;
+                            hoverFolderSound.currentTime = 0;
+                            hoverFolderSound.play();
+                        }
+                    });
+                    folder.addEventListener("mouseleave", function () {
+                        overlay.style.display = "none";
+                    });
+                }
+            });
+        });
+    </script>
+    <script>
+        // FOLDER CLICK SOUND + DELAY LOGIC
+        document.addEventListener("DOMContentLoaded", function () {
+            const folderClickSound = document.getElementById("folder-click-sound");
+            let clickLock = false;
+
+            ["a1", "a2", "b1", "b2", "c1"].forEach(function(level) {
+                for (let i = 1; i <= 15; i++) {
+                    const folder = document.getElementById(`folder-${level}-${i}`);
+                    if (!folder) continue;
+
+                    folder.addEventListener("click", function (e) {
+                        if (clickLock) return;
+                        clickLock = true;
+
+                        folderClickSound.volume = 0.45;
+                        folderClickSound.currentTime = 0;
+                        folderClickSound.play();
+
+                        folderClickSound.onended = function () {
+                            clickLock = false;
+                            if (typeof loadCase === "function") {
+                                loadCase(i, level);
+                            }
+                        };
+                        folderClickSound.onpause = folderClickSound.onabort = function () {
+                            clickLock = false;
+                        };
+                    });
+                }
+            });
+
+            window.addEventListener("keydown", function (e) {
+                if (clickLock) {
+                    e.stopPropagation();
+                    e.preventDefault();
+                }
+            }, true);
+        });
+    </script>
+    <script>
+        // UPDATED: Always switch to main menu music when going home
+        function goToMainMenu() {
+            const fade = document.getElementById("fade-overlay");
+            fade.classList.add("active");
+
+            setTimeout(function () {
+                document.querySelectorAll(".background").forEach(div => div.style.display = "none");
+                document.getElementById("menu-screen").style.display = "flex";
+                // Clean up score screen background!
+                document.getElementById("score-screen").style.backgroundImage = "";
+
+                // Always switch to menu music
+                if (typeof setMainMusic === "function") {
+                    setMainMusic();
+                }
+
+                const music = document.getElementById("bg-music");
+                const soundToggles = document.querySelectorAll(".sound-toggle");
+                if (music.paused || music.muted || music.volume === 0) {
+                    soundToggles.forEach(t => t.src = "images/sound_off.png");
+                } else {
+                    soundToggles.forEach(t => t.src = "images/sound_on.png");
+                }
+
+                if (typeof attachSoundToggleListeners === "function") attachSoundToggleListeners();
+                fade.classList.remove("active");
+            }, 400);
+        }
+    </script>
+  
+
+
+
+
+
+
+
+</body>
+</html>
+
+
+
+
+

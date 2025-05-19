@@ -1,0 +1,181 @@
+case,error_sentence,correct_sentence,option_1,option_2,option_3,option_4,correct_option,topics
+1,He deeply angry about the situation.,He is deeply angry about the situation.,situation,deeply,the,about,2,adjective/adverb collocations
+1,"If I will see him, I will tell him the news.","If I saw him, I would tell him the news.",will,I,the,him,1,second conditional
+1,"He is a good singer, isn't he not?","He is a good singer, isn't he?",He,he,not,a,3,tag questions (B1)
+1,I want going to the cinema tonight.,I want to go to the cinema tonight.,to,going,I,cinema,2,gerunds and infinitives
+1,We goes to school every day.,We go to school every day.,We,day,goes,every,3,present continuous vs present simple
+1,"Because he was tired, so he went to bed early.","Because he was tired, he went to bed early.",went,so,he,was,2,linking words
+1,She is the woman who I met last week.,She is the woman whom I met last week.,woman,I,who,met,3,relative clauses
+1,They didn't eat because they not finished their work.,They didn't eat because they had not finished their work.,their,didn't,finished,not,4,past perfect
+1,Can you tell me where is the station?,Can you tell me where the station is?,tell,is,station,the,2,indirect/embedded questions
+1,We ought do more exercise.,We ought to do more exercise.,exercise,We,more,do,4,modals for advice/obligation
+1,I use to play football when I was younger.,I used to play football when I was younger.,use,when,I,to,1,used to/would
+1,She told that she will help us.,She told that she would help us.,She,told,will,that,3,reported speech
+2,She got her hair cutted last week.,She got her hair cut last week.,cutted,got,She,her,1,causative have/get
+2,She would goes to that café every morning.,She would go to that café every morning.,to,would,goes,café,3,used to/would
+2,"I like pizza, however I eat it every day.","I like pizza, but I don't eat it every day.",however,it,I,day,1,linking words
+2,She told that she will help us.,She told that she would help us.,will,us,she,told,1,reported speech
+2,We goes to school every day.,We go to school every day.,goes,to,day,every,1,present continuous vs present simple
+2,I want going to the cinema tonight.,I want to go to the cinema tonight.,going,tonight,I,the,1,gerunds and infinitives
+2,"This time tomorrow, I will working on my project.","This time tomorrow, I will be working on my project.",working,will,I,on,1,future continuous
+2,She runs more faster than anyone in the class.,She runs faster than anyone in the class.,She,than,more,anyone,3,comparatives/superlatives (adverbs)
+2,She is the woman who I met last week.,She is the woman whom I met last week.,last,week,woman,who,4,relative clauses
+2,The cake was eat by the children.,The cake was eaten by the children.,by,children,The,eat,4,passive voice
+2,He should goes to the doctor soon.,He should go to the doctor soon.,soon,goes,should,to,2,modals for advice/obligation
+2,She has worked in this company for January.,She has worked in this company since January.,has,in,worked,for,4,present perfect (for/since)
+3,We ought do more exercise.,We ought to do more exercise.,ought,do,We,more,2,modals for advice/obligation
+3,"He is a good singer, isn't he not?","He is a good singer, isn't he?",not,isn't,is,singer,1,tag questions (B1)
+3,She told me she see the movie before.,She told me she had seen the movie before.,me,see,before,told,2,past perfect
+3,We had the house paint last year.,We had the house painted last year.,had,paint,year,last,2,causative have/get
+3,We used to went to the beach every summer.,We used to go to the beach every summer.,the,went,summer,every,2,used to/would
+3,I want going to the cinema tonight.,I want to go to the cinema tonight.,going,the,tonight,want,1,gerunds and infinitives
+3,She is the woman who I met last week.,She is the woman whom I met last week.,woman,who,I,the,2,relative clauses
+3,I wonder who is she talking to.,I wonder who she is talking to.,who,talking,I,is,4,indirect/embedded questions
+3,He speaks the most clearly of all students.,He speaks most clearly of all students.,He,clearly,most,the,4,comparatives/superlatives (adverbs)
+3,Although it was raining but we went outside.,"Although it was raining, we went outside.",Although,we,it,but,4,linking words
+3,He said he is going to call me tomorrow.,He said he was going to call me tomorrow.,he,me,going,is,4,reported speech
+3,"If it rains, we would stay home.","If it rained, we would stay home.",would,If,we,stay,1,second conditional
+4,I wish I can speak English fluently.,I wish I could speak English fluently.,can,I,wish,fluently,1,wish/if only
+4,They haven't seen him since two weeks.,They haven't seen him for two weeks.,since,They,him,two,1,present perfect (for/since)
+4,"You have been to London, haven't you not?","You have been to London, haven't you?",You,have,not,to,3,tag questions (B1)
+4,She runs more faster than anyone in the class.,She runs faster than anyone in the class.,class,more,anyone,She,2,comparatives/superlatives (adverbs)
+4,They said they are tired.,They said they were tired.,said,are,tired,They,2,reported speech
+4,They didn't eat because they not finished their work.,They didn't eat because they had not finished their work.,work,not,didn't,They,2,past perfect
+4,The man which lives next door is a doctor.,The man who lives next door is a doctor.,door,doctor,which,is,3,relative clauses
+4,He decided going abroad last year.,He decided to go abroad last year.,going,last,He,year,1,gerunds and infinitives
+4,I wonder who is she talking to.,I wonder who she is talking to.,wonder,is,I,who,2,indirect/embedded questions
+4,They completely agree with your idea.,They completely agree with your idea.,with,completely,your,They,2,adjective/adverb collocations
+4,There is less people at the party this year.,There are fewer people at the party this year.,is,year,party,less,4,quantifiers
+4,"Because he was tired, so he went to bed early.","Because he was tired, he went to bed early.",he,bed,Because,so,4,linking words
+5,She would goes to that café every morning.,She would go to that café every morning.,every,goes,She,that,2,used to/would
+5,He decided going abroad last year.,He decided to go abroad last year.,last,going,decided,year,2,gerunds and infinitives
+5,There is less people at the party this year.,There are fewer people at the party this year.,at,There,party,less,4,quantifiers
+5,He deeply angry about the situation.,He is deeply angry about the situation.,about,deeply,angry,He,2,adjective/adverb collocations
+5,We ought do more exercise.,We ought to do more exercise.,do,exercise,more,We,1,modals for advice/obligation
+5,She has worked in this company for January.,She has worked in this company since January.,this,worked,She,for,4,present perfect (for/since)
+5,He speaks the most clearly of all students.,He speaks most clearly of all students.,clearly,most,of,the,4,comparatives/superlatives (adverbs)
+5,We must look after us.,We must look after ourselves.,after,We,look,us,4,reflexive pronouns (complex)
+5,He said he is going to call me tomorrow.,He said he was going to call me tomorrow.,He,is,he,said,2,reported speech
+5,"I like pizza, however I eat it every day.","I like pizza, but I don't eat it every day.",I,every,however,like,3,linking words
+5,He will driving to work at 8am.,He will be driving to work at 8am.,will,work,8am,driving,4,future continuous
+5,I am always forget my keys at home.,I always forget my keys at home.,always,home,am,my,3,present continuous vs present simple
+6,Listen! The birds sings in the garden.,Listen! The birds are singing in the garden.,in,sings,the,garden,2,present continuous vs present simple
+6,He will driving to work at 8am.,He will be driving to work at 8am.,will,work,to,driving,4,future continuous
+6,They haven't seen him since two weeks.,They haven't seen him for two weeks.,haven't,weeks,since,two,3,present perfect (for/since)
+6,They completely agree with your idea.,They completely agree with your idea.,completely,They,agree,your,1,adjective/adverb collocations
+6,This is the book what I bought yesterday.,This is the book that I bought yesterday.,This,is,bought,what,4,relative clauses
+6,"If it rains, we would stay home.","If it rained, we would stay home.",rains,would,If,stay,2,second conditional
+6,We had too many informations for the test.,We had too much information for the test.,had,We,for,informations,4,quantifiers
+6,He speaks the most clearly of all students.,He speaks most clearly of all students.,students,most,the,speaks,3,comparatives/superlatives (adverbs)
+6,The cake was eat by the children.,The cake was eaten by the children.,The,the,by,eat,4,passive voice
+6,I wish I was have more time.,I wish I had more time.,was,I,more,have,4,wish/if only
+6,You must to study harder for the test.,You must study harder for the test.,must,for,You,to,4,modals for advice/obligation
+6,"I like pizza, however I eat it every day.","I like pizza, but I don't eat it every day.",however,it,pizza,eat,1,linking words
+7,"At 9pm, she will watch TV.","At 9pm, she will be watching TV.",TV,At,she,watch,4,future continuous
+7,I wonder who is she talking to.,I wonder who she is talking to.,wonder,is,she,I,2,indirect/embedded questions
+7,If only I know his address.,If only I knew his address.,address,know,only,If,2,wish/if only
+7,We used to went to the beach every summer.,We used to go to the beach every summer.,summer,went,We,the,2,used to/would
+7,She enjoys to swim in the pool.,She enjoys swimming in the pool.,She,enjoys,to,swim,3,gerunds and infinitives
+7,She prepared the dinner by herselfs.,She prepared the dinner by herself.,prepared,She,dinner,herselfs,4,reflexive pronouns (complex)
+7,"I like pizza, however I eat it every day.","I like pizza, but I don't eat it every day.",I,it,however,every,3,linking words
+7,"When I arrived, she leave the house already.","When I arrived, she had left the house already.",already,house,leave,the,3,past perfect
+7,He speaks the most clearly of all students.,He speaks most clearly of all students.,He,the,students,all,2,comparatives/superlatives (adverbs)
+7,We goes to school every day.,We go to school every day.,goes,school,We,to,1,present continuous vs present simple
+7,I have little money to buy the ticket.,I have a little money to buy the ticket.,ticket,I,money,little,4,quantifiers
+7,They completely agree with your idea.,They completely agree with your idea.,with,idea,completely,They,3,adjective/adverb collocations
+8,"If I will see him, I will tell him the news.","If I saw him, I would tell him the news.",I,will,the,If,2,second conditional
+8,She runs more faster than anyone in the class.,She runs faster than anyone in the class.,the,anyone,faster,more,4,comparatives/superlatives (adverbs)
+8,Do you know what time does the movie start?,Do you know what time the movie starts?,what,does,know,the,2,indirect/embedded questions
+8,They didn't eat because they not finished their work.,They didn't eat because they had not finished their work.,their,not,They,finished,2,past perfect
+8,There is less people at the party this year.,There are fewer people at the party this year.,at,is,the,less,4,quantifiers
+8,She enjoys to swim in the pool.,She enjoys swimming in the pool.,the,swim,to,in,3,gerunds and infinitives
+8,We had the house paint last year.,We had the house painted last year.,the,year,paint,had,3,causative have/get
+8,This is the book what I bought yesterday.,This is the book that I bought yesterday.,what,yesterday,book,the,1,relative clauses
+8,"I like pizza, however I eat it every day.","I like pizza, but I don't eat it every day.",I,eat,however,it,3,linking words
+8,We must look after us.,We must look after ourselves.,after,We,us,must,3,reflexive pronouns (complex)
+8,"They won't come, will they not?","They won't come, will they?",not,won't,come,They,1,tag questions (B1)
+8,Listen! The birds sings in the garden.,Listen! The birds are singing in the garden.,birds,sings,in,Listen!,2,present continuous vs present simple
+9,I wish I was have more time.,I wish I had more time.,wish,more,have,I,3,wish/if only
+9,She prepared the dinner by herselfs.,She prepared the dinner by herself.,herselfs,dinner,She,the,1,reflexive pronouns (complex)
+9,He decided going abroad last year.,He decided to go abroad last year.,abroad,decided,going,year,3,gerunds and infinitives
+9,He should goes to the doctor soon.,He should go to the doctor soon.,He,the,goes,should,3,modals for advice/obligation
+9,They said they are tired.,They said they were tired.,they,are,said,tired,2,reported speech
+9,They haven't seen him since two weeks.,They haven't seen him for two weeks.,since,seen,haven't,him,1,present perfect (for/since)
+9,Do you know what time does the movie start?,Do you know what time the movie starts?,the,does,start,you,2,indirect/embedded questions
+9,He deeply angry about the situation.,He is deeply angry about the situation.,the,deeply,about,situation,2,adjective/adverb collocations
+9,She is the woman who I met last week.,She is the woman whom I met last week.,last,who,is,week,2,relative clauses
+9,"Because he was tired, so he went to bed early.","Because he was tired, he went to bed early.",so,was,Because,he,1,linking words
+9,"This time tomorrow, I will working on my project.","This time tomorrow, I will be working on my project.",project,This,tomorrow,working,4,future continuous
+9,"If she had money, she buy a new phone.","If she had money, she would buy a new phone.",she,If,had,buy,4,second conditional
+10,We must look after us.,We must look after ourselves.,us,must,look,We,1,reflexive pronouns (complex)
+10,We had too many informations for the test.,We had too much information for the test.,We,informations,too,for,2,quantifiers
+10,I use to play football when I was younger.,I used to play football when I was younger.,when,use,football,play,2,used to/would
+10,"If it rains, we would stay home.","If it rained, we would stay home.",would,If,home,stay,1,second conditional
+10,They didn't eat because they not finished their work.,They didn't eat because they had not finished their work.,didn't,not,because,They,2,past perfect
+10,I wish I was have more time.,I wish I had more time.,time,I,have,was,3,wish/if only
+10,I did my homework more quickly as my brother.,I did my homework more quickly than my brother.,my,brother,homework,as,4,comparatives/superlatives (adverbs)
+10,She got her hair cutted last week.,She got her hair cut last week.,got,her,cutted,last,3,causative have/get
+10,"They won't come, will they not?","They won't come, will they?",will,won't,not,They,3,tag questions (B1)
+10,The car is repair now.,The car is being repaired now.,now,repair,car,is,2,passive voice
+10,We goes to school every day.,We go to school every day.,goes,day,school,to,1,present continuous vs present simple
+10,We ought do more exercise.,We ought to do more exercise.,do,We,ought,more,1,modals for advice/obligation
+11,You must to study harder for the test.,You must study harder for the test.,study,must,to,the,3,modals for advice/obligation
+11,"If it rains, we would stay home.","If it rained, we would stay home.",home,would,If,we,2,second conditional
+11,He deeply angry about the situation.,He is deeply angry about the situation.,about,deeply,the,situation,2,adjective/adverb collocations
+11,They haven't seen him since two weeks.,They haven't seen him for two weeks.,since,him,They,seen,1,present perfect (for/since)
+11,The man which lives next door is a doctor.,The man who lives next door is a doctor.,man,which,door,The,2,relative clauses
+11,She enjoys to swim in the pool.,She enjoys swimming in the pool.,the,enjoys,to,pool,3,gerunds and infinitives
+11,They didn't eat because they not finished their work.,They didn't eat because they had not finished their work.,work,eat,not,because,3,past perfect
+11,The cake was eat by the children.,The cake was eaten by the children.,cake,eat,The,children,2,passive voice
+11,"You have been to London, haven't you not?","You have been to London, haven't you?",not,to,you,haven't,1,tag questions (B1)
+11,I had my car repair yesterday.,I had my car repaired yesterday.,had,repair,yesterday,my,2,causative have/get
+11,I have little money to buy the ticket.,I have a little money to buy the ticket.,the,little,buy,I,2,quantifiers
+11,We goes to school every day.,We go to school every day.,day,goes,to,every,2,present continuous vs present simple
+12,There is less people at the party this year.,There are fewer people at the party this year.,is,this,the,less,4,quantifiers
+12,I had my car repair yesterday.,I had my car repaired yesterday.,my,repair,had,I,2,causative have/get
+12,She told me she see the movie before.,She told me she had seen the movie before.,she,before,movie,see,4,past perfect
+12,I want going to the cinema tonight.,I want to go to the cinema tonight.,the,tonight,cinema,going,4,gerunds and infinitives
+12,I wish I can speak English fluently.,I wish I could speak English fluently.,fluently,can,wish,I,2,wish/if only
+12,"You have been to London, haven't you not?","You have been to London, haven't you?",not,have,haven't,London,1,tag questions (B1)
+12,Do you know what time does the movie start?,Do you know what time the movie starts?,does,time,the,what,1,indirect/embedded questions
+12,This is the book what I bought yesterday.,This is the book that I bought yesterday.,what,This,the,book,1,relative clauses
+12,He did it hisself without any help.,He did it himself without any help.,help,hisself,He,any,2,reflexive pronouns (complex)
+12,You must to study harder for the test.,You must study harder for the test.,to,must,for,harder,1,modals for advice/obligation
+12,She has worked in this company for January.,She has worked in this company since January.,this,She,for,has,3,present perfect (for/since)
+12,They said they are tired.,They said they were tired.,said,are,They,they,2,reported speech
+13,The car is repair now.,The car is being repaired now.,repair,now,is,car,1,passive voice
+13,They haven't seen him since two weeks.,They haven't seen him for two weeks.,weeks,two,haven't,since,4,present perfect (for/since)
+13,She told that she will help us.,She told that she would help us.,will,us,that,she,1,reported speech
+13,There is less people at the party this year.,There are fewer people at the party this year.,There,this,less,is,3,quantifiers
+13,This is the book what I bought yesterday.,This is the book that I bought yesterday.,the,what,yesterday,This,2,relative clauses
+13,"Because he was tired, so he went to bed early.","Because he was tired, he went to bed early.",tired,so,bed,was,2,linking words
+13,They completely agree with your idea.,They completely agree with your idea.,completely,idea,They,your,1,adjective/adverb collocations
+13,Can you tell me where is the station?,Can you tell me where the station is?,station,is,me,tell,2,indirect/embedded questions
+13,I want going to the cinema tonight.,I want to go to the cinema tonight.,tonight,cinema,I,going,4,gerunds and infinitives
+13,I wish I can speak English fluently.,I wish I could speak English fluently.,can,I,speak,fluently,1,wish/if only
+13,"This time tomorrow, I will working on my project.","This time tomorrow, I will be working on my project.",project,working,tomorrow,I,2,future continuous
+13,We used to went to the beach every summer.,We used to go to the beach every summer.,summer,beach,the,went,4,used to/would
+14,I have lived here since five years.,I have lived here for five years.,since,have,lived,I,1,present perfect (for/since)
+14,He decided going abroad last year.,He decided to go abroad last year.,year,going,last,He,2,gerunds and infinitives
+14,Although it was raining but we went outside.,"Although it was raining, we went outside.",but,was,outside,went,1,linking words
+14,We had the house paint last year.,We had the house painted last year.,paint,the,We,house,1,causative have/get
+14,We goes to school every day.,We go to school every day.,every,goes,to,school,2,present continuous vs present simple
+14,This is the book what I bought yesterday.,This is the book that I bought yesterday.,the,bought,what,I,3,relative clauses
+14,I did my homework more quickly as my brother.,I did my homework more quickly than my brother.,quickly,more,homework,as,4,comparatives/superlatives (adverbs)
+14,The cake was eat by the children.,The cake was eaten by the children.,cake,children,The,eat,4,passive voice
+14,They said they are tired.,They said they were tired.,they,said,They,are,4,reported speech
+14,Can you tell me where is the station?,Can you tell me where the station is?,is,Can,station,tell,1,indirect/embedded questions
+14,She made a big effort hardly to pass the exam.,She made a big effort to pass the exam.,hardly,big,effort,a,1,adjective/adverb collocations
+14,I use to play football when I was younger.,I used to play football when I was younger.,use,when,younger,was,1,used to/would
+15,She is the woman who I met last week.,She is the woman whom I met last week.,woman,who,met,week,2,relative clauses
+15,"When I arrived, she leave the house already.","When I arrived, she had left the house already.",When,I,leave,the,3,past perfect
+15,They completely agree with your idea.,They completely agree with your idea.,completely,idea,with,agree,1,adjective/adverb collocations
+15,She enjoys to swim in the pool.,She enjoys swimming in the pool.,the,She,to,enjoys,3,gerunds and infinitives
+15,Do you know what time does the movie start?,Do you know what time the movie starts?,know,does,the,time,2,indirect/embedded questions
+15,The car is repair now.,The car is being repaired now.,The,car,now,repair,4,passive voice
+15,Listen! The birds sings in the garden.,Listen! The birds are singing in the garden.,Listen!,The,birds,sings,4,present continuous vs present simple
+15,We ought do more exercise.,We ought to do more exercise.,ought,do,exercise,We,2,modals for advice/obligation
+15,I wish I was have more time.,I wish I had more time.,was,more,have,time,3,wish/if only
+15,They haven't seen him since two weeks.,They haven't seen him for two weeks.,weeks,seen,two,since,4,present perfect (for/since)
+15,"If I will see him, I will tell him the news.","If I saw him, I would tell him the news.",the,tell,will,If,3,second conditional
+15,She prepared the dinner by herselfs.,She prepared the dinner by herself.,She,the,by,herselfs,4,reflexive pronouns (complex)

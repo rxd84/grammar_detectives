@@ -1,0 +1,181 @@
+case,error_sentence,correct_sentence,option_1,option_2,option_3,option_4,correct_option,topics
+1,He don't finish his homework last night before dinner.,He didn't finish his homework last night before dinner.,his,don't,dinner,He,2,past simple tense
+1,I was read a book all afternoon yesterday.,I was reading a book all afternoon yesterday.,read,afternoon,a,all,1,past continuous
+1,His car is most fast than my car.,His car is faster than my car.,fast,most,car,than,2,comparative adjectives
+1,"If people doesn't drink water, they get thirsty.","If people don't drink water, they get thirsty.",thirsty,If,drink,doesn't,4,zero conditional
+1,This soup isn't as hot like the other one.,This soup isn't as hot as the other one.,the,like,one,as,2,comparative as...as
+1,"You like ice cream, isn't you?","You like ice cream, don't you?",cream,you,like,isn't,4,question tags
+1,There isn't some milk left in the fridge.,There isn't any milk left in the fridge.,some,the,isn't,left,1,some/any/many/much
+1,"This bag is her, not mine.","This bag is hers, not mine.",This,her,mine,not,2,possessive pronouns
+1,She sings beautiful at the concert.,She sings beautifully at the concert.,at,concert,beautiful,She,3,adverbs of manner
+1,This box is too much heavy for me to carry.,This box is too heavy for me to carry.,much,to,is,for,1,too/enough
+1,She has a little apples in her lunchbox today.,She has a few apples in her lunchbox today.,apples,in,has,little,4,quantifiers
+1,"If you will study hard, you will pass the test.","If you study hard, you will pass the test.",will,pass,hard,If,1,first conditional
+2,"He is your friend, isn't he not?","He is your friend, isn't he?",He,not,is,your,2,question tags
+2,"Can you help I with my homework, please?","Can you help me with my homework, please?",please,my,Can,I,4,object pronouns
+2,He don't finish his homework last night before dinner.,He didn't finish his homework last night before dinner.,before,night,don't,finish,3,past simple tense
+2,His car is most fast than my car.,His car is faster than my car.,car,most,than,is,2,comparative adjectives
+2,He speaks English very good in class.,He speaks English very well in class.,good,very,He,English,1,adverbs of manner
+2,They were talk loudly during the movie.,They were talking loudly during the movie.,movie,talk,were,loudly,2,past continuous
+2,She has a little apples in her lunchbox today.,She has a few apples in her lunchbox today.,a,apples,in,little,4,quantifiers
+2,He goes to the gym at every Friday morning.,He goes to the gym every Friday morning.,at,morning,He,goes,1,prepositions of time
+2,"That bike is your, not mine.","That bike is yours, not mine.",is,mine,That,your,4,possessive pronouns
+2,"If you heat ice, it melts always.","If you heat ice, it always melts.",heat,always,If,melts,2,zero conditional
+2,There isn't some milk left in the fridge.,There isn't any milk left in the fridge.,fridge,some,isn't,the,2,some/any/many/much
+2,We have finish our homework already.,We have finished our homework already.,our,finish,already,have,2,present perfect simple
+3,The water is not warm enough for swimming now.,The water is not warm enough for swimming now.,not,for,is,enough,1,too/enough
+3,We have finish our homework already.,We have finished our homework already.,our,homework,have,finish,4,present perfect simple
+3,She have to goes to the doctor on Monday.,She has to go to the doctor on Monday.,goes,She,have,Monday,1,modal verbs
+3,"If it will rain, the grass gets wet.","If it rains, the grass gets wet.",gets,If,wet,will,4,zero conditional
+3,"She can't swim, can she not?","She can't swim, can she?",can't,she,can,not,4,question tags
+3,She sings beautiful at the concert.,She sings beautifully at the concert.,concert,She,the,beautiful,4,adverbs of manner
+3,She looked at hisself in the mirror before leaving.,She looked at herself in the mirror before leaving.,at,in,before,hisself,4,reflexive pronouns
+3,I have a lot of homeworks to finish tonight.,I have a lot of homework to finish tonight.,have,homeworks,finish,I,2,quantifiers
+3,I am go to the party on Saturday evening.,I am going to the party on Saturday evening.,go,am,Saturday,the,1,present continuous for future
+3,They were talk loudly during the movie.,They were talking loudly during the movie.,loudly,the,They,talk,4,past continuous
+3,"Can you help I with my homework, please?","Can you help me with my homework, please?",please,with,you,I,4,object pronouns
+3,I going study English more this year to improve.,I am going to study English more this year to improve.,going,this,to,English,1,future with going to
+4,"If she will call me, I will be happy.","If she calls me, I will be happy.",happy,will,call,she,2,first conditional
+4,He speaks English very good in class.,He speaks English very well in class.,English,in,good,class,3,adverbs of manner
+4,He don't finish his homework last night before dinner.,He didn't finish his homework last night before dinner.,homework,before,last,don't,4,past simple tense
+4,"Tomorrow, she go to visit her grandmother in the afternoon.","Tomorrow, she is going to visit her grandmother in the afternoon.",grandmother,she,go,visit,3,future with going to
+4,He am flying to London next week for work.,He is flying to London next week for work.,for,week,am,to,3,present continuous for future
+4,I have an appointment in 3 pm tomorrow.,I have an appointment at 3 pm tomorrow.,I,in,3,pm,2,prepositions of time
+4,I cut myselfs when I was making dinner.,I cut myself when I was making dinner.,when,dinner,was,myselfs,4,reflexive pronouns
+4,"If it will rain, the grass gets wet.","If it rains, the grass gets wet.",will,the,grass,it,1,zero conditional
+4,She didn't eat many rice for lunch today.,She didn't eat much rice for lunch today.,didn't,She,for,many,4,countable/uncountable nouns
+4,She have to goes to the doctor on Monday.,She has to go to the doctor on Monday.,She,have,goes,the,3,modal verbs
+4,I was read a book all afternoon yesterday.,I was reading a book all afternoon yesterday.,yesterday,a,was,read,4,past continuous
+4,His car is most fast than my car.,His car is faster than my car.,most,car,my,is,1,comparative adjectives
+5,They didn't invite we to the party last week.,They didn't invite us to the party last week.,week,They,didn't,we,4,object pronouns
+5,She isn't as smart then her sister.,She isn't as smart as her sister.,She,her,sister,then,4,comparative as...as
+5,This is the baddest day of my life.,This is the worst day of my life.,the,day,my,baddest,4,superlative adjectives
+5,I should to eat more vegetables every day.,I should eat more vegetables every day.,to,more,eat,I,1,modal verbs
+5,She has a little apples in her lunchbox today.,She has a few apples in her lunchbox today.,a,her,little,has,3,quantifiers
+5,She didn't eat many rice for lunch today.,She didn't eat much rice for lunch today.,today,She,eat,many,4,countable/uncountable nouns
+5,The water is not warm enough for swimming now.,The water is not warm enough for swimming now.,water,not,warm,The,2,too/enough
+5,We taught ourselfs to play the guitar.,We taught ourselves to play the guitar.,ourselfs,taught,to,the,1,reflexive pronouns
+5,She sings beautiful at the concert.,She sings beautifully at the concert.,sings,concert,beautiful,She,3,adverbs of manner
+5,There isn't some milk left in the fridge.,There isn't any milk left in the fridge.,milk,There,left,some,4,some/any/many/much
+5,"That bike is your, not mine.","That bike is yours, not mine.",That,your,bike,not,2,possessive pronouns
+5,"If you will study hard, you will pass the test.","If you study hard, you will pass the test.",pass,the,will,study,3,first conditional
+6,We taught ourselfs to play the guitar.,We taught ourselves to play the guitar.,to,play,We,ourselfs,4,reflexive pronouns
+6,"If you will study hard, you will pass the test.","If you study hard, you will pass the test.",study,will,If,you,2,first conditional
+6,This soup isn't as hot like the other one.,This soup isn't as hot as the other one.,the,This,as,like,4,comparative as...as
+6,She sings beautiful at the concert.,She sings beautifully at the concert.,sings,She,beautiful,the,3,adverbs of manner
+6,This is the baddest day of my life.,This is the worst day of my life.,my,is,baddest,the,3,superlative adjectives
+6,You must to finish the project by tomorrow.,You must finish the project by tomorrow.,finish,must,You,to,4,modal verbs
+6,She didn't eat many rice for lunch today.,She didn't eat much rice for lunch today.,rice,for,many,today,3,countable/uncountable nouns
+6,"If people doesn't drink water, they get thirsty.","If people don't drink water, they get thirsty.",water,If,get,doesn't,4,zero conditional
+6,We is meeting our friends at the park at six.,We are meeting our friends at the park at six.,park,at,our,is,4,present continuous for future
+6,He was play football when it started to rain.,He was playing football when it started to rain.,football,play,started,He,2,past continuous
+6,We see a great movie last weekend at the theater.,We saw a great movie last weekend at the theater.,see,last,at,We,1,past simple tense
+6,This box is too much heavy for me to carry.,This box is too heavy for me to carry.,for,much,carry,me,2,too/enough
+7,"That bike is your, not mine.","That bike is yours, not mine.",your,bike,not,That,1,possessive pronouns
+7,They didn't invite we to the party last week.,They didn't invite us to the party last week.,They,we,to,last,2,object pronouns
+7,There isn't some milk left in the fridge.,There isn't any milk left in the fridge.,fridge,left,in,some,4,some/any/many/much
+7,"He is your friend, isn't he not?","He is your friend, isn't he?",not,your,friend,he,1,question tags
+7,I going study English more this year to improve.,I am going to study English more this year to improve.,going,year,improve,this,1,future with going to
+7,They were talk loudly during the movie.,They were talking loudly during the movie.,loudly,the,talk,were,3,past continuous
+7,The water is not warm enough for swimming now.,The water is not warm enough for swimming now.,for,is,not,water,3,too/enough
+7,I have much books in my bag for school.,I have many books in my bag for school.,much,school,I,bag,1,countable/uncountable nouns
+7,She has a little apples in her lunchbox today.,She has a few apples in her lunchbox today.,apples,little,She,her,2,quantifiers
+7,I have an appointment in 3 pm tomorrow.,I have an appointment at 3 pm tomorrow.,pm,in,an,appointment,2,prepositions of time
+7,"If she will call me, I will be happy.","If she calls me, I will be happy.",me,will,call,I,2,first conditional
+7,His car is most fast than my car.,His car is faster than my car.,than,most,fast,car,2,comparative adjectives
+8,"Yesterday, I go to the cinema with my friends after school.","Yesterday, I went to the cinema with my friends after school.",the,my,I,go,4,past simple tense
+8,He speaks English very good in class.,He speaks English very well in class.,good,English,in,class,1,adverbs of manner
+8,"This bag is her, not mine.","This bag is hers, not mine.",is,her,not,mine,2,possessive pronouns
+8,I have an appointment in 3 pm tomorrow.,I have an appointment at 3 pm tomorrow.,in,appointment,an,3,1,prepositions of time
+8,"If you will study hard, you will pass the test.","If you study hard, you will pass the test.",hard,will,pass,you,2,first conditional
+8,He has much friends in the city.,He has many friends in the city.,has,city,He,much,4,some/any/many/much
+8,He am flying to London next week for work.,He is flying to London next week for work.,am,London,work,for,1,present continuous for future
+8,He isn't enough old to drive a car.,He isn't old enough to drive a car.,to,car,enough,He,3,too/enough
+8,She have to goes to the doctor on Monday.,She has to go to the doctor on Monday.,Monday,goes,on,She,2,modal verbs
+8,I have a lot of homeworks to finish tonight.,I have a lot of homework to finish tonight.,finish,tonight,homeworks,of,3,quantifiers
+8,He was play football when it started to rain.,He was playing football when it started to rain.,football,to,play,He,3,past continuous
+8,I have see that movie before at the cinema.,I have seen that movie before at the cinema.,see,that,before,I,1,present perfect simple
+9,How many sugar do you want in your tea?,How much sugar do you want in your tea?,in,many,you,How,2,countable/uncountable nouns
+9,This box is too much heavy for me to carry.,This box is too heavy for me to carry.,much,too,carry,to,1,too/enough
+9,I was read a book all afternoon yesterday.,I was reading a book all afternoon yesterday.,a,yesterday,I,read,4,past continuous
+9,He gave she a beautiful present yesterday.,He gave her a beautiful present yesterday.,gave,she,yesterday,He,2,object pronouns
+9,I have see that movie before at the cinema.,I have seen that movie before at the cinema.,I,movie,the,see,4,present perfect simple
+9,They run quick in the race every year.,They run quickly in the race every year.,quick,run,the,in,1,adverbs of manner
+9,We taught ourselfs to play the guitar.,We taught ourselves to play the guitar.,guitar,play,to,ourselfs,4,reflexive pronouns
+9,"That bike is your, not mine.","That bike is yours, not mine.",mine,your,That,is,2,possessive pronouns
+9,"Yesterday, I go to the cinema with my friends after school.","Yesterday, I went to the cinema with my friends after school.",Yesterday,cinema,go,I,3,past simple tense
+9,My brother is not as tall like my father.,My brother is not as tall as my father.,not,like,tall,father,2,comparative as...as
+9,I going study English more this year to improve.,I am going to study English more this year to improve.,to,more,this,going,4,future with going to
+9,"She can't swim, can she not?","She can't swim, can she?",can,not,swim,She,2,question tags
+10,"Can you help I with my homework, please?","Can you help me with my homework, please?",Can,my,I,you,3,object pronouns
+10,Do you have some money for the ticket?,Do you have any money for the ticket?,ticket,you,Do,some,4,some/any/many/much
+10,My birthday is on July in summer.,My birthday is in July in summer.,in,on,July,is,2,prepositions of time
+10,This is the baddest day of my life.,This is the worst day of my life.,is,of,baddest,the,3,superlative adjectives
+10,She has a little apples in her lunchbox today.,She has a few apples in her lunchbox today.,lunchbox,apples,little,in,3,quantifiers
+10,He am flying to London next week for work.,He is flying to London next week for work.,flying,week,am,work,3,present continuous for future
+10,She didn't eat many rice for lunch today.,She didn't eat much rice for lunch today.,eat,many,for,didn't,2,countable/uncountable nouns
+10,I going study English more this year to improve.,I am going to study English more this year to improve.,improve,study,I,going,4,future with going to
+10,We see a great movie last weekend at the theater.,We saw a great movie last weekend at the theater.,see,last,the,theater,1,past simple tense
+10,The water is not warm enough for swimming now.,The water is not warm enough for swimming now.,not,swimming,for,warm,1,too/enough
+10,We have finish our homework already.,We have finished our homework already.,We,homework,have,finish,4,present perfect simple
+10,I should to eat more vegetables every day.,I should eat more vegetables every day.,to,I,every,day,1,modal verbs
+11,"If you will study hard, you will pass the test.","If you study hard, you will pass the test.",test,will,If,you,2,first conditional
+11,"Can you help I with my homework, please?","Can you help me with my homework, please?",my,you,I,with,3,object pronouns
+11,She has never ate sushi in her life.,She has never eaten sushi in her life.,ate,She,sushi,has,1,present perfect simple
+11,"If it will rain, the grass gets wet.","If it rains, the grass gets wet.",wet,the,If,will,4,zero conditional
+11,My brother is not as tall like my father.,My brother is not as tall as my father.,like,father,tall,is,1,comparative as...as
+11,Do you have some money for the ticket?,Do you have any money for the ticket?,the,some,money,ticket,2,some/any/many/much
+11,"She can't swim, can she not?","She can't swim, can she?",can,not,can't,swim,2,question tags
+11,This box is too much heavy for me to carry.,This box is too heavy for me to carry.,heavy,is,much,too,3,too/enough
+11,She has a little apples in her lunchbox today.,She has a few apples in her lunchbox today.,a,lunchbox,in,little,4,quantifiers
+11,I should to eat more vegetables every day.,I should eat more vegetables every day.,should,every,to,eat,3,modal verbs
+11,She didn't eat many rice for lunch today.,She didn't eat much rice for lunch today.,for,many,lunch,didn't,2,countable/uncountable nouns
+11,"Yesterday, I go to the cinema with my friends after school.","Yesterday, I went to the cinema with my friends after school.",to,after,go,school,3,past simple tense
+12,My birthday is on July in summer.,My birthday is in July in summer.,July,is,on,birthday,3,prepositions of time
+12,He isn't enough old to drive a car.,He isn't old enough to drive a car.,enough,to,He,car,1,too/enough
+12,"That bike is your, not mine.","That bike is yours, not mine.",That,is,bike,your,4,possessive pronouns
+12,"If you heat ice, it melts always.","If you heat ice, it always melts.",ice,it,always,you,3,zero conditional
+12,He was play football when it started to rain.,He was playing football when it started to rain.,He,it,play,to,3,past continuous
+12,I am go to the party on Saturday evening.,I am going to the party on Saturday evening.,I,on,Saturday,go,4,present continuous for future
+12,Do you have some money for the ticket?,Do you have any money for the ticket?,some,money,Do,you,1,some/any/many/much
+12,She has never ate sushi in her life.,She has never eaten sushi in her life.,her,She,ate,has,3,present perfect simple
+12,They didn't invite we to the party last week.,They didn't invite us to the party last week.,last,we,invite,to,2,object pronouns
+12,"If you will study hard, you will pass the test.","If you study hard, you will pass the test.",will,test,you,study,1,first conditional
+12,She has a little apples in her lunchbox today.,She has a few apples in her lunchbox today.,lunchbox,little,a,her,2,quantifiers
+12,"You like ice cream, isn't you?","You like ice cream, don't you?",you,isn't,ice,like,2,question tags
+13,He don't finish his homework last night before dinner.,He didn't finish his homework last night before dinner.,before,He,don't,homework,3,past simple tense
+13,This soup isn't as hot like the other one.,This soup isn't as hot as the other one.,like,hot,soup,This,1,comparative as...as
+13,We have finish our homework already.,We have finished our homework already.,finish,homework,We,have,1,present perfect simple
+13,"She can't swim, can she not?","She can't swim, can she?",not,can't,can,swim,1,question tags
+13,They run quick in the race every year.,They run quickly in the race every year.,the,in,every,quick,4,adverbs of manner
+13,She looked at hisself in the mirror before leaving.,She looked at herself in the mirror before leaving.,hisself,the,She,mirror,1,reflexive pronouns
+13,They going meet their teacher after class today.,They are going to meet their teacher after class today.,teacher,after,their,going,4,future with going to
+13,"If it will rain, the grass gets wet.","If it rains, the grass gets wet.",wet,the,grass,will,4,zero conditional
+13,How many sugar do you want in your tea?,How much sugar do you want in your tea?,many,want,tea,you,1,countable/uncountable nouns
+13,They didn't invite we to the party last week.,They didn't invite us to the party last week.,They,party,week,we,4,object pronouns
+13,I have an appointment in 3 pm tomorrow.,I have an appointment at 3 pm tomorrow.,I,an,have,in,4,prepositions of time
+13,We is meeting our friends at the park at six.,We are meeting our friends at the park at six.,six,park,is,our,3,present continuous for future
+14,He isn't enough old to drive a car.,He isn't old enough to drive a car.,enough,to,drive,old,1,too/enough
+14,"Yesterday, I go to the cinema with my friends after school.","Yesterday, I went to the cinema with my friends after school.",Yesterday,go,school,to,2,past simple tense
+14,"If she will call me, I will be happy.","If she calls me, I will be happy.",will,she,me,be,1,first conditional
+14,I have much books in my bag for school.,I have many books in my bag for school.,I,much,in,my,2,countable/uncountable nouns
+14,We taught ourselfs to play the guitar.,We taught ourselves to play the guitar.,taught,We,play,ourselfs,4,reflexive pronouns
+14,"If people doesn't drink water, they get thirsty.","If people don't drink water, they get thirsty.",drink,get,If,doesn't,4,zero conditional
+14,He goes to the gym at every Friday morning.,He goes to the gym every Friday morning.,to,gym,at,He,3,prepositions of time
+14,She has never ate sushi in her life.,She has never eaten sushi in her life.,She,her,ate,has,3,present perfect simple
+14,He is the most tallest student in the class.,He is the tallest student in the class.,most,tallest,is,in,1,superlative adjectives
+14,This exam is easyer than the last one we had.,This exam is easier than the last one we had.,the,we,easyer,is,3,comparative adjectives
+14,"Tomorrow, she go to visit her grandmother in the afternoon.","Tomorrow, she is going to visit her grandmother in the afternoon.",the,afternoon,visit,go,4,future with going to
+14,We is meeting our friends at the park at six.,We are meeting our friends at the park at six.,at,We,friends,is,4,present continuous for future
+15,She have to goes to the doctor on Monday.,She has to go to the doctor on Monday.,have,on,to,goes,4,modal verbs
+15,How many sugar do you want in your tea?,How much sugar do you want in your tea?,many,do,How,you,1,countable/uncountable nouns
+15,He am flying to London next week for work.,He is flying to London next week for work.,work,flying,next,am,4,present continuous for future
+15,I was read a book all afternoon yesterday.,I was reading a book all afternoon yesterday.,read,I,a,all,1,past continuous
+15,He speaks English very good in class.,He speaks English very well in class.,very,He,class,good,4,adverbs of manner
+15,He is the most tallest student in the class.,He is the tallest student in the class.,He,most,is,in,2,superlative adjectives
+15,"If it will rain tomorrow, I will stay home.","If it rains tomorrow, I will stay home.",will,home,tomorrow,stay,1,first conditional
+15,He has much friends in the city.,He has many friends in the city.,in,much,the,has,2,some/any/many/much
+15,"If you heat ice, it melts always.","If you heat ice, it always melts.",heat,it,always,ice,3,zero conditional
+15,She has never ate sushi in her life.,She has never eaten sushi in her life.,has,in,never,ate,4,present perfect simple
+15,"You like ice cream, isn't you?","You like ice cream, don't you?",cream,ice,you,isn't,4,question tags
+15,We taught ourselfs to play the guitar.,We taught ourselves to play the guitar.,play,the,ourselfs,guitar,3,reflexive pronouns
